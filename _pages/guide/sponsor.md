@@ -49,25 +49,13 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 
 
 ### When will you get participant data?
-Participant emails, links, and resumes will be sent to you via email shortly after the event. We will follow-up to request
-an email for us to send the data to.
+Participants resumes will be sent to you shortly before the event.
 
 
 ### When to arrive?
-If you have a booth for the event, we recommend you arrive between 7:00 AM and 8:00 AM to
-set up your booth on the first floor of the SEEC building. We recommend you stay at least
-from when you arrive until hacking begins at noon. We are having a career fair 
-from 11:00 AM to noon.
+If you have a stand for the event, we recommend you arrive between 12:00 PM and 14:00 PM to
+set up your stand on your location. We recommend you to stay at least from when you arrive until hacking begins at noon.
 
-
-### Will your logo be on our website?
-Yes, of course! If you can, send us an AI or SVG file of your logo so we can use it for our t-shirts.
-A good quality PNG will also work. Check out your logo on our website at HackCU.org
-
-### Can you send mentors or recruiters?
-You are allowed to send mentors. We recommend they stay for at least one hour, and they are
-allowed to come at any time during the event. Check out our [mentor guide](../mentor/). Depending on your tier, you will be able
-to send recruiters to the event as well. Please contact your HackCU representative if you are unsure of your tier.
 
 ### What do you do with swag?
 Participants love company swag! If you have a table, feel free to bring it for your table. If you don't
@@ -103,12 +91,7 @@ Please provide this as soon as you have it. We will publish it our live page and
 
 ## Social Media
 
-We love to hear from you on the social media, so feel free to tag us on your posts related to the event! These are our social networks:
-
-- Instagram: [@hackupc](https://www.instagram.com/hackupc/)
-- Twitter: [@hackupc](https://twitter.com/HackUPC/)
-- Facebook: [fb.com/hackupc](https://www.facebook.com/hackupc)
-
+{% include sections/social.md %}
 
 ## Useful Links
 
