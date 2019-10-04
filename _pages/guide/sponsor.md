@@ -4,34 +4,37 @@ title: Sponsor guide
 description: Sponsor guide for HackUPC
 ---
 
-HackCU is truly honored to have you sponsor HackCU IV this year! This event would not be possible or as successful without you. 
-Because of your contribution, you will be helping students work on projects, learn a completely new technology, and come up with great ideas. Students have 24 hours to work on a project of their choice, and HackCU gives students the resources, space, and time to create something amazing.
+Hello! In HackUPC we are proud to count on your participation in the new edition of this event. We wholeheartedly hope that this will be an enriching experience.
+
+With your help, participants will be able to enjoy and work in a perfect environment with all the tools they need to bring out the best of them, creating and developing incredible projects and ideas.
+
+We hope that, by the end of this document, you have a clearer vision on how to face and take advantage of this event.
 
 ---
 
-## Getting there
+## How to get there
 
 ### Location
 
->SEEC Building, 4001 Discovery Dr
->Boulder, CO 80303
+HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord.
+> Campus Nord, Carrer de Jordi Girona, 1, 3, 08034 Barcelona.
 
 ### Parking
 
 {% include sections/parking.md %}
 
-### What should I bring?
+### What to bring
 
-- Laptop
-- Laptop charger
-- Your company shirt (optional)
-- Swag
-- and lots of energy!
+You can bring whatever you want to the event while it fits in your stand. Here’s a few examples:
+
+- Laptops
+- Corporative shirts 
+- Merchandising (also known as swag) for participants
+- A lot of energy!
 
 ### Check in
 
-You will see our check in table when you arrive. Please provide your name and company name to the check in table. You will be provided with a sponsor badge to enter and leave the venue whenever you want.
-
+You can go directly to the sponsor check-in, it is located at the same place as hackers, however you can go directly in. Please let us know when you arrive on the event so we can help you to set-up everything!
 
 
 ---
@@ -100,21 +103,19 @@ Please provide this as soon as you have it. We will publish it our live page and
 
 ## Social Media
 
-Make sure to tag social media posts related to the event with **[\#HackCU](https://twitter.com/search?q=%23hackcu)**. Add us on social media to get updates on event information!
-- Instagram: [@hackcu](https://www.instagram.com/hackcu/?hl=en)
-- Twitter: [@hackcu](https://twitter.com/hackcu) 
-- Facebook: [fb.com/hackcu](https://www.facebook.com/HackCU/). 
+We love to hear from you on the social media, so feel free to tag us on your posts related to the event! These are our social networks:
+
+- Instagram: [@hackupc](https://www.instagram.com/hackupc/)
+- Twitter: [@hackupc](https://twitter.com/HackUPC/)
+- Facebook: [fb.com/hackupc](https://www.facebook.com/hackupc)
 
 
-## Links
+## Useful Links
 
-- Our website: [hackcu.org](https://hackcu.org)
-- Live page: *Coming soon*
-- Slack Channel: [hackcu.slack.com](https://hackcu.slack.com)
-- Devpost: [hackcu4.devpost.com](https://hackcu4.devpost.com) 
+{% include sections/links.md %}
 
 ----
 
 ## More questions?
 
-Email us at [contact@hackcu.org](mailto:contact@hackcu.org)! You can also reach out to us on our [Twitter](https://twitter.com/hackcu) or [Facebook](https://www.facebook.com/HackCU/).
+{% include sections/contact.md %}

@@ -29,4 +29,3 @@ Some important times to be aware of:
 - 10:15 AM - Project expositions
 - 1:00 PM - Lunch
 - 2:30 PM - Closing ceremony
-
