@@ -5,7 +5,7 @@ Some important times to be aware of:
 
 **October 11th, Friday**
 
-- 3:00 PM - Check-in
+- 4:00 PM - Check-in
 - 7:00 PM - Opening Ceremony
 - 9:00 PM - Hacking starts!
 - 9:00 PM - Dinner
