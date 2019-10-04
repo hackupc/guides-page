@@ -61,7 +61,7 @@ These are some important channels that we have:
 
 ### Check in :wave:
 
-Check-in will be open from 3:00 to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! We will give you, among other things, **a bracelet that you will have to wear at all times.**
+Check-in will be open from 4:00 to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! We will give you, among other things, **a bracelet that you will have to wear at all times.**
 If you arrive later, go to info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! We will also have baggage check-in so that you can leave your bags in a safe place.
 
 ### Opening Ceremony :clapper:
