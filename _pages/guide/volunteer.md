@@ -24,8 +24,9 @@ Make sure to:
 
 **Do it on the following order:**
 - Call Seguretat de Campus: 934 011 710
-- **If no answer, call 112**
-  - Call Andrea, Maria, Ferja or Xavi:
+- If no answer, call 112
+
+**Always Call Andrea, Maria, Ferja or Xavi:**
     - (Andrea) 634 484 446
     - (Maria) 608 753 000
     - (Ferja) 639 28 41 25
@@ -41,7 +42,7 @@ Call Andrea, Maria, Ferja or Xavi:
 - (Xavi) 664 62 78 15
 
 ### Locations :round_pushpin:
-You can see the location with more detail in www.maps.hackupc :world_map:
+You can see the location with more detail in https://hackupc.com/live#/maps :world_map:
 
 #### A6
 - Hacking space (first/second floor rooms) :desktop_computer:
