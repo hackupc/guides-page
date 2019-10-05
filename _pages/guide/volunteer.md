@@ -130,19 +130,19 @@ The responsible of this team is **Yaiza Cano**, she will tell you what you need 
 ### T-Shirts :tshirt:
 In order to know who is a **hacker, a volunteer, an organizer and a mentor**, each one will wear a different t-shirt.
 
-- Dark Green: Hackers
-- Black: Organizer
-- Yellow: Volunteer
-- Grey: Mentor
+- **Dark Green**: Hackers
+- **Black**: Organizer
+- **Yellow**: Volunteer
+- **Grey**: Mentor
 
 
 ### Bracelets :pizza:
 Here are the different bracelets that will be available during the event with their meaning:
 
-- White: someone who has no alimentary requirements
-- Green: Someone Vegetarian or Vegan. Only ones who requires to take vegetarian or vegan food. 
-- Yellow: Someone who can’t eat pork. 
-- Red: Special meal person. This can mean that they can’t eat something (allergies, religion…) or they are intolerant. When serving food, make sure to ask them what are they allergic to and check the food you serve is good.
+- **White**: someone who has no alimentary requirements
+- **Green**: Someone Vegetarian or Vegan. Only ones who requires to take vegetarian or vegan food. 
+- **Yellow**: Someone who can’t eat pork. 
+- **Red**: Special meal person. This can mean that they can’t eat something (allergies, religion…) or they are intolerant. When serving food, make sure to ask them what are they allergic to and check the food you serve is good.
 
 
 ### Code of Conduct
