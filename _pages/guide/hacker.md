@@ -159,6 +159,7 @@ We will have some sweet hardware for you to hack on:
 - Soldering kit
 - Amazon echo dot
 
+If you want some, you will have to reserve it once the hacking time starts! You can reserve it via our hardware webapp (coming soon) and check it out at Info Desk.
 
 ### Meals :shallow_pan_of_food:
 The food will be given out in front of the buildings A5 and A6. We will let you know through #announcements when it’s ready! We provide food taking into account every special diet that you may have. If you have a special diet and are unsure of the contents of each meal, don’t hesitate to ask the organisers and volunteers who will be next to the food. Remember to bring your water bottle if your drink of choice is water!
