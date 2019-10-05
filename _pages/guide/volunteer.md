@@ -19,10 +19,10 @@ Make sure to:
 - Download the Slack App (for i0S, Android and Windows Phone)
 - **Enable all push notifications for mentions.** 
 
-### IN CASE OF EMERGENCY :oncoming_police_car::ambulance: :fire_engine: : 
+### In case of emergency :oncoming_police_car::ambulance: :fire_engine: : 
 (Heart attack, seizure, fire, poisoning, violence, etc.)
 
-**DO IN THE FOLLOWING ORDER:**
+**Do it on the following order:**
 - Call Seguretat de Campus: 934 011 710
 - **If no answer, call 112**
   - Call Andrea, Maria, Ferja or Xavi:
@@ -31,7 +31,7 @@ Make sure to:
     (Ferja) 639 28 41 25
     (Xavi) 664 62 78 15
 
-### IN CASE OF OTHER INCIDENTS :warning: :
+### In case of other incidents :warning: :
 (Harassment at the event, dangerous behaviour, etc.)
 
 Call Andrea, Maria, Ferja or Xavi:
@@ -76,7 +76,7 @@ You can see the location with more detail in www.maps.hackupc :world_map:
 #### Meal zone :plate_with_cutlery:
 - Hall between A5/A6 (outside)  
 
-### Official Schedule 	:hourglass_flowing_sand:
+### Official Schedule :calendar:
 With this schedule you can answer all questions from attendees. You should also direct hackers to use http://hackupc.com/live. There will be a live version of this schedule there, with updates and announcements about what’s going on at any given moment during the event.
 You can see a detailed version in the EVENT SCHEDULE.
 
@@ -86,23 +86,23 @@ We have a dedicated SSID. It will work from Friday to Sunday. Information will b
 SSID: To be defined
 Password: To be defined
 
-### What tasks to do :muscle :muscle
+### What tasks to do :muscle: :muscle:
 During HackUPC, **Ferran Velasco (Ferja) and Xavi Alaman will be your main point of contact.** If them are not around, other main organizers (black t-shirts) will tell you what to do. Check with organizers with radio as they will be able to get in contact with Ferja and Xavi at anytime. In case of doubts, go to HQ (A6E02) and ask an organizer there. Also, you can contact with your team lead, as we’ll explain below, with any problem.
 
 ### What happens if I don’t know something? :thinking:
 During the event, hackers will ask you lots of questions, **it’s okay if you don’t know the answer.** When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the #staff slack channel or through the phone.
 
-### Volunteer groups 
+### Volunteer groups :four:
 In every edition there are **four big groups** with different and independent tasks. The whole tasks are described in detail in the document named Volunteer Teams that we sent you. Every volunteer will work differently in each of them when needed. The groups are:
 
-#### HACKER SUPPORT
+#### Hacker support
 The responsible of this team is **Laura Pérez**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
 - Check in
 - Baggage Check in
 - InfoDesk
 - Hardware Lab
 
-#### ACTIVITIES SUPPORT
+#### Activities support
 The responsible of this team is **Sandra Flores**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
 - Opening and Closing ceremony support
 - Talks support
@@ -110,7 +110,7 @@ The responsible of this team is **Sandra Flores**, she will tell you what you ne
 - Hacker support
 - Team building
 
-#### LOGISTICS TEAM
+#### Logistics team
 The responsible of this team is **Neus Oliveras**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
 - Warehouse control
 - Meal set-up
@@ -118,7 +118,7 @@ The responsible of this team is **Neus Oliveras**, she will tell you what you ne
 - Garbage collector
 - Water + food break!
 
-#### SET UP TEAM
+#### Set up team
 The responsible of this team is **Yaiza Cano**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
 - A5/A6 Set up
 - Sleeping zone setup
@@ -127,7 +127,7 @@ The responsible of this team is **Yaiza Cano**, she will tell you what you need 
 #### All in One SuperVolunteer 
 **Arnau González** will be helping the four teams, in case of doubt or any problem you can also ask him. 
 
-### T-Shirts
+### T-Shirts :tshirt:
 In order to know who is a **hacker, a volunteer, an organizer and a mentor**, each one will wear a different t-shirt.
 
 - Dark Green: Hackers
@@ -136,7 +136,7 @@ In order to know who is a **hacker, a volunteer, an organizer and a mentor**, ea
 - Grey: Mentor
 
 
-### Bracelets
+### Bracelets :pizza:
 Here are the different bracelets that will be available during the event with their meaning:
 
 - White: someone who has no alimentary requirements
