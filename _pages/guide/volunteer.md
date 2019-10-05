@@ -22,15 +22,11 @@ Make sure to:
 ### In case of emergency :oncoming_police_car::ambulance: :fire_engine: : 
 (Heart attack, seizure, fire, poisoning, violence, etc.)
 
-**Do it on the following order:**
-- Call Seguretat de Campus: 934 011 710
-- If no answer, call 112
-
 **Always Call Andrea, Maria, Ferja or Xavi:**
-    - (Andrea) 634 484 446
-    - (Maria) 608 753 000
-    - (Ferja) 639 28 41 25
-    - (Xavi) 664 62 78 15
+- (Andrea) 634 484 446
+- (Maria) 608 753 000
+- (Ferja) 639 28 41 25
+- (Xavi) 664 62 78 15
 
 ### In case of other incidents :warning: :
 (Harassment at the event, dangerous behaviour, etc.)
