@@ -23,7 +23,7 @@ HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord.
 
 {% include sections/parking.md %}
 
-### What to bring
+## What to bring
 
 You can bring whatever you want to the event while it fits in your stand. Hereâ€™s a few examples:
 
@@ -32,24 +32,26 @@ You can bring whatever you want to the event while it fits in your stand. Hereâ€
 - Merchandising (also known as swag) for participants
 - A lot of energy!
 
-### Check in
+## Check in
 
-You can go directly to the sponsor check-in, it is located at the same place as hackers, however you can go directly in. Please let us know when you arrive on the event so we can help you to set-up everything!
+> A5 building from Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona
 
+You can go directly to the sponsor check-in, it is located at the same place as hackers. Please let us know when you arrive on the event so we can help you to set-up everything! You can talk to an organizer at any time to ask fo help!
 
 ---
 
 ## Preliminary schedule
 
-
 {% include sections/schedule.md %}
 
 ---
+## Judging criteria
+
+{% include sections/judging.md %}
+
+---
+
 ## Sponsor FAQ
-
-
-### When will you get participant data?
-Participants resumes will be sent to you shortly before the event.
 
 
 ### When to arrive?
@@ -58,34 +60,14 @@ set up your stand on your location. We recommend you to stay at least from when 
 
 
 ### What do you do with swag?
-Participants love company swag! If you have a table, feel free to bring it for your table. If you don't
-have a table but still have swag to give out, contact us and we will put it out for you.
+Participants love company swag! If you have a table, feel free to bring it for your table.
 
 
 ### How can I join Slack?
-
-Get onto our Slack at [slack.hackcu.org](https://slack.hackcu.org) to communicate with participants, mentors, other sponsors
-and the admin team.
+When the event approaches we will send you an invitation link so you can join the slack and start talking with the hackers!
 
 ### Will there be food and drinks?
-We will be providing all meals, snacks and drinks, and you are allowed to eat and drink
-anything at the event!
-
-### What information should I provide for my company challenge?
-In order to make the most of your challenge during HackCU, we recommend you to provide with the following:
-
-- Challenge name: How should we call your challenge? 
-- Prize: What will the winners get on your challenge?
-- Description: This can be a document. Should provide answers to the following questions:
-  - What is the challenge?
-  - What your company is looking for?
-  - What is provided to help hackers solve the challenge? Provide links to any resources here as well.
-  - How will hacks be judged? What makes a hack win?
-  - Project examples 
-  
-Please provide this as soon as you have it. We will publish it our live page and devpost. You can provide us with a link to documentation to reference to hackers.
-
-
+We will be providing all meals, snacks and drinks, and you are allowed to eat and drink anything at the event! If you want to bring your own food fee free, however we provide all kind of diet options.
 
 ---
 
