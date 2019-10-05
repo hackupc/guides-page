@@ -1,68 +1,68 @@
 ---
 layout: base
-title: Volunteer guide
-description: Volunteering at HackUPC
+title: HackUPC Volunteer guide
+description: 	The extensive guide to make your experience at HackUPC amazing!
 ---
 
-## When to be here
+Hi, volunteer! We’re very excited to share this amazing weekend with you. This guide will help you get ready so that you don’t miss anything and can enjoy it to the fullest. Pay attention, as we have included all the important information that you need to know.
+
+---
+### When to be here :stopwatch:
 All of you completed a doodle with the information of your attendance as a volunteer during the weekend. We will be setting up the HackUPC venue from 10AM on Friday 11th. Please be punctual as everyone should be here for that. 
 
-## Locations
-You can see the location with more detail in maps.hackupc
 
-### A6
-Hacking space (first/second floor rooms)
-Organizer HQ (A6E02)
-Volunteer HQ (A6E01)
-Storage (A6001 and A6002)
-Cafeteria (A6106)
-Sponsors 
+### Locations :round_pushpin:
+You can see the location with more detail in www.maps.hackupc :world_map:
 
-### A5
-Hacking space (first/second floor rooms)
-Talks (A5001/02)
-InfoDesk / Baggage Check-in / Hardware Lab (A5E)
-Sponsors
+#### A6
+- Hacking space (first/second floor rooms) :desktop_computer:
+- Organizer HQ (A6E02) :house:
+- Volunteer HQ (A6E01) :house_with_garden:
+- Storage (A6001 and A6002) :file_cabinet:
+- Cafeteria (A6106) :coffee:
+- Sponsors :moneybag:
 
-### A4
-Hacking space (first floor rooms)
-Demo fair (second floor rooms)
-Nerfgun battle (A4101 and A4102)
-Sleeping room (second floor rooms)
+#### A5
+- Hacking space (first/second floor rooms):desktop_computer:
+- Talks (A5001/02) :astonished:
+- InfoDesk / Baggage Check-in / Hardware Lab (A5E) :robot:
+- Sponsors :moneybag:
 
-### A3
-Sleeping room (first/second floor rooms)
-Sponsors judging (first/second floor rooms)
+#### A4
+- Hacking space (first floor rooms) :desktop_computer:
+- Demo fair (second floor rooms) :balance_scale:
+- Nerfgun battle (A4101 and A4102) :gun:
+- Sleeping room (second floor rooms) :sleeping:
 
-### Poliesportiu
-Showers
+#### A3
+- Sleeping room (first/second floor rooms) :sleeping:
+- Sponsors judging (first/second floor rooms) :balance_scale:
 
-### Vertex
-Opening/Closing ceremony
+#### Poliesportiu
+- Showers :shower:
 
-### Meal zone
-Hall between A5/A6 (outside)
+#### Vertex
+- Opening/Closing ceremony :dancing_men:
 
+#### Meal zone :plate_with_cutlery:
+- Hall between A5/A6 (outside) 
 
-
-## Communication
+### Communication
 All communication will be done through Slack and phone calls for urgent communication.
-We will have one private channel for volunteers named #staff. Please do not talk about organizing/volunteer stuff on the public channels. If you have not received yet your invitation, make sure to contact an organizer. 
+We will have one private channel for volunteers named #staff. **Please do not talk about organizing/volunteer stuff on the public channels.** If you have not received yet your invitation, make sure to contact an organizer. 
 
 Make sure to:
-Sign up on Slack
-Download the Slack App:
-iOS
-Android
-Windows Phone
-Enable all push notifications for mentions.
+- Sign up on Slack
+- Download the Slack App (for i0S, Android and Windows Phone)
+- **Enable all push notifications for mentions.**
 
 
-## What tasks to do
-During HackUPC, Ferran Velasco (Ferja) and Xavi Alaman will be your main point of contact. If them are not around, other main organizers (black t-shirts) will tell you what to do. Check with organizers with radio as they will be able to get in contact with Ferja and Xavi at anytime. In case of doubts, go to HQ (A6E02) and ask an organizer there. Also, you can contact with your team lead, as we’ll explain below, with any problem.
+
+### What tasks to do
+During HackUPC, **Ferran Velasco (Ferja) and Xavi Alaman will be your main point of contact.** If them are not around, other main organizers (black t-shirts) will tell you what to do. Check with organizers with radio as they will be able to get in contact with Ferja and Xavi at anytime. In case of doubts, go to HQ (A6E02) and ask an organizer there. Also, you can contact with your team lead, as we’ll explain below, with any problem.
 
 ## What happens if I don’t know something?
-During the event, hackers will ask you lots of questions, it’s okay if you don’t know the answer. When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the #staff slack channel or through the phone.
+During the event, hackers will ask you lots of questions, **it’s okay if you don’t know the answer.** When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the #staff slack channel or through the phone.
 
 ### IN CASE OF EMERGENCY:
 (Heart attack, seizure, fire, poisoning, violence, etc.)
