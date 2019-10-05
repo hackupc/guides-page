@@ -31,7 +31,8 @@ Make sure to:
 ### In case of other incidents :warning: :
 (Harassment at the event, dangerous behaviour, etc.)
 
-Call Andrea, Maria, Ferja or Xavi:
+**Contact any organizer**
+**If no answer** call Andrea, Maria, Ferja or Xavi:
 - (Andrea) 634 484 446
 - (Maria) 608 753 000
 - (Ferja) 639 28 41 25
