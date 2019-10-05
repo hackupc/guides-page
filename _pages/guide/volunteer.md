@@ -8,7 +8,7 @@ Hi, volunteer! We’re very excited to share this amazing weekend with you. This
 
 ---
 ### When to be here :stopwatch:
-All of you completed a doodle with the information of your attendance as a volunteer during the weekend. We will be setting up the HackUPC venue from 10AM on Friday 11th. Please be punctual as everyone should be here for that. 
+All of you completed a doodle with the information of your attendance as a volunteer during the weekend. We will be setting up the HackUPC venue from **10AM on Friday 11th**. Please be punctual as everyone should be here for that. 
 
 ### Communication :telephone_receiver:
 All communication will be done through Slack and phone calls for urgent communication.
