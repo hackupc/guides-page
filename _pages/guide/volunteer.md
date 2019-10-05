@@ -16,7 +16,7 @@ We will have one private channel for volunteers named #staff. **Please do not ta
 
 Make sure to:
 - Sign up on Slack
-- Download the Slack App (for i0S, Android and Windows Phone)
+- Download the Slack App (for iOS, Android and Windows Phone)
 - **Enable all push notifications for mentions.** 
 
 ### In case of emergency :oncoming_police_car::ambulance: :fire_engine: : 
@@ -130,9 +130,9 @@ The responsible of this team is **Yaiza Cano**, she will tell you what you need 
 In order to know who is a **hacker, a volunteer, an organizer and a mentor**, each one will wear a different t-shirt.
 
 - **Dark Green**: Hackers
-- **Black**: Organizer
+- **Dark Grey**: Organizer
 - **Yellow**: Volunteer
-- **Grey**: Mentor
+- **Light Grey**: Mentor
 
 
 ### Bracelets :pizza:
@@ -145,5 +145,5 @@ Here are the different bracelets that will be available during the event with th
 
 
 ### Code of Conduct
-TL;DR. Be respectful. Harassment and abuse are never tolerated. You are the forefront image of the hackathon when the organizers are not around. Please try to convey the same attitude we ask our participants to have :)
+TL;DR. Be respectful. Harassment and abuse are never tolerated. You are the forefront image of the hackathon when the organizers are not around. Please read [HackUPC's code of Conduct](https://hackupc.com/code_conduct) and try to convey the same attitude we ask our participants to have :) 
 http://static.mlh.io/docs/mlh-code-of-conduct.pdf
