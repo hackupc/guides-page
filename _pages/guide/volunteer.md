@@ -145,5 +145,4 @@ Here are the different bracelets that will be available during the event with th
 
 
 ### Code of Conduct
-TL;DR. Be respectful. Harassment and abuse are never tolerated. You are the forefront image of the hackathon when the organizers are not around. Please read [HackUPC's code of Conduct](https://hackupc.com/code_conduct) and try to convey the same attitude we ask our participants to have :) 
-http://static.mlh.io/docs/mlh-code-of-conduct.pdf
+TL;DR. Be respectful. Harassment and abuse are never tolerated. You are the forefront image of the hackathon when the organizers are not around. Please read [HackUPC's code of Conduct](https://hackupc.com/code_conduct) and try to convey the same attitude we ask our participants to have :)
