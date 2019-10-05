@@ -26,19 +26,19 @@ Make sure to:
 - Call Seguretat de Campus: 934 011 710
 - **If no answer, call 112**
   - Call Andrea, Maria, Ferja or Xavi:
-    (Andrea) 634 484 446
-    (Maria) 608 753 000
-    (Ferja) 639 28 41 25
-    (Xavi) 664 62 78 15
+    - (Andrea) 634 484 446
+    - (Maria) 608 753 000
+    - (Ferja) 639 28 41 25
+    - (Xavi) 664 62 78 15
 
 ### In case of other incidents :warning: :
 (Harassment at the event, dangerous behaviour, etc.)
 
 Call Andrea, Maria, Ferja or Xavi:
-(Andrea) 634 484 446
-(Maria) 608 753 000
-(Ferja) 639 28 41 25
-(Xavi) 664 62 78 15
+- (Andrea) 634 484 446
+- (Maria) 608 753 000
+- (Ferja) 639 28 41 25
+- (Xavi) 664 62 78 15
 
 ### Locations :round_pushpin:
 You can see the location with more detail in www.maps.hackupc :world_map:
