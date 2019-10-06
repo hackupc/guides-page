@@ -55,7 +55,7 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 
 
 ### When to arrive?
-If you have a stand for the event, we recommend you arrive between 12:00 PM and 14:00 PM to
+If you have a stand for the event, we recommend you arrive between 13:00 PM and 15:00 PM to
 set up your stand on your location. We recommend you to stay at least from when you arrive until hacking begins at noon.
 
 
