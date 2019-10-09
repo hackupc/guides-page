@@ -68,8 +68,8 @@ You will see check in when you arrive. Please provide your name to the check in 
 
 - Our website: [hackupc.com](https://hackupc.com)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Slack: [hackupc2019.slack.com](ttps://hackupc2019.slack.com)
-- Mentor app: Web application coming soon
+- Slack: [hackupc2019.slack.com](https://hackupc2019.slack.com)
+- Mentor app: [mentors.hackupc.com](https://mentors.hackupc.com)
 
 ## Social Media
 
