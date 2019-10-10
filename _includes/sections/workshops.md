@@ -1,16 +1,15 @@
-We have curated various workshops & events for you to explore.
+We have curated various workshops and events for you to explore. We will announce them on Slack too!
 
-- **Workshop: Intro to Python:** Find out what makes Python such an easy programming language for you to learn.
-- **Workshop: Vim - A Robust Text Editor:** Learn to use the text editor everybody is raving about since the 90's.
-- **Workshop: Intro to git and GitHub:** Learn how to make your projects available for the entire world to see.
-- **Workshop: Make your own personal website:** Put everything you learnt together and build your portfolio.
-- **Workshop: Amazon Web Services:** Learn how to deploy services on the cloud with AWS.
-- **Workshop: Intro to iOS:** Learn how to make your first iOS applications.
-  - For this workshop you **must** download [XCode](https://developer.apple.com/xcode/downloads/) beforehand. The download takes a long time, and you won't be able to do the workshop without it. 
-- **Workshop: Your first web server:** Learn how to make your first web server during the talk with Flask.
-- **Workshop: Writing a Resume/Creating a Personal Brand:** Looking for jobs? Come and learn how to make your CV look better and increase your chances to getting hired.
-  - Check out the [workshop slides](https://docs.google.com/presentation/d/1QV7ckM3QmqCi93daY19VrcdvUG4EDSgjWwaJ0t1iD5w/edit?ts=5a848443#slide=id.p3) as a resource for building your personal brand!
-- **Workshop: Rapid prototyping game**: Missing ideas to hack on? Attend this rapid prototyping session to get the juices flowing.
-- **Workshop: Intro to VR/AR**: Learn more about how VR/AR is shaping the world.
-  - For this workshop you **must** download [unity](https://unity3d.com/get-unity/download) beforehand. The download takes a long time, and you won't be able to do the workshop without it. 
-- **Hackathon Organizer Meetup** Meet other hackathon organizers. Get tips on how to bring a hackathon to your community.
+- **Talk - Git & Github, by Github:** Introduction to git and GitHub, learn the most basic commands for git and collaborate with GitHub. *A5001, Friday 10:30 PM*
+- **Talk - Initial Brainstorming, by Opentrends:** Opentrends is helping you choose the right project. In our workshop we're going to implement design thinking methodologies to find your most appropiate challenge. Don't miss out! *A5002, Friday 10:30 PM*
+- **Talk - Data for good cities, by Everis:** More and more companies are attempting to become data-driven. Turning data into knowledge and knowledge into intelligent actions is crucial for digital transformation. Let's see some interesting examples of how to do it for a good purpose. *A5001, Friday 11:00 PM*
+- **Workshop: Crush your coding interview, by Facebook:** Never experienced a technical interview before? Want to extra-prepare for your next one? Technical interviews are one of the major hurdles of landing an awesome internship or full time career. Open for currently enrolled University students, come learn about the common pitfalls and tips to help you crush your next coding interview! Learn how to put your best foot forward at this Crush Your Coding Interview Workshop. *A5002, Friday 11:00 PM*
+- **Talk: The future of 3D printing, by HP:** Discover one of the most trend manufacturing technology with HP. *A5001, Friday 11:30 PM*
+- **Talk: Are you Redis?, by Vueling:** You want to know how to improve your applications? Then cache could be a valid approach, learn how Redis is used in a big company like Vueling. *A5002, Friday 11:30 PM*
+- **Talk: APIs for first timers, by Typeform:** LIs this your first hackathon? You heard the word API or SDK prounounced many times during the opening ceremony but you have no idea what it means? Then you should come to this workshop to discover the beautiful world of APIs 🤩. In this talk we will cover the basic principles of APIs, how to call them, talk about security and showcase of examples of APIs you could use in your project. *A5001, Saturday 12:00 AM*
+- **Talk: Programmatic art & Online multiplayer Gamedev 101, by Hackers@UPC:** *A5002, Saturday 12:30 AM *
+- **Talk: Microservices at Scale, by Skyscanner:** How Skyscanner handles thousands of deployments a day. Skyscanner serves over 80 Million unique visitors each months through its evolving architecture formed of thousands of micro-services. The continuous generation, maintenance deployment of old and new services can be a time-consuming and onerous task that we want to avoid. To ensure that our engineers can focus on our travelers rather than on our infrastructure, over the year Skyscaner has developed an articulate list of solution to run multiservices at scale, from their creation and deployment to the support of a full continuous integration pipeline. In Skyscanner, even an Intern can get a world-class-engineering service up and running in less than 10 minutes, fancy having a look at how we do it? *A5001, Saturday 10:00 AM*
+- **Talk: Clean code for Analytics, by McKinsey & Company:**: Keeping solutions scalable is key, even if it is just a model to be run by others. This session will go about how to ensure anyone can understand what you code. *A5001, Saturday 11:00 AM*
+- **Talk: Implementing R projects as libraries, by McKinsey & Company:**: Learn how to structure a project as an R library by one of our expert coders! *A5001, Saturday 11:30 AM*
+- **Talk: Meetup Hacktoberfest, by Github:** Cheers. *A5001, Saturday 04:00 PM*
+- **Talk: How to organize your hackathon, by Hackers@UPC:** Would you like to organize a hackathon? Come listen some of our experiences and tips. Don't be shy, we're here to help you! *A5001, Saturday 05:00 PM*

@@ -114,10 +114,14 @@ The processing of travel reimbursements takes some time - our schedule depends o
 Remember to opt in the challenges when submitting your project! (By submitting, you automatically opt to the HackUPC prize.) Check them during HackUPC in our live page: [live.hackupc.com](http://live.hackupc.com/)
 
 ### :computer: WORKSHOPS AND TALKS
-On Friday night and Saturday morning, you will have the opportunity to attend several workshops given by our sponsors. Check the Live page to know the full list of topics! We will also announce them on Slack as they start.
-
+<!-- On Friday night and Saturday morning, you will have the opportunity to attend several workshops given by our sponsors. Check the Live page to know the full list of topics! We will also announce them on Slack as they start. -->
+{% include sections/workshops.md %}
+<!--
 ### :office: BSC TOURS
 Our university is also home to the Barcelona Supercomputing Centre. If you arrive early, you can join one of our three tours to see the MareNostrum, the 29th most powerful supercomputer in the world, installed in a unique location: the old Torre Girona chapel. We will post soon more details!
+-->
+### Activities
+{% include sections/activities.md %}
 
 ---
 ### :zzz: Sleeping rooms
