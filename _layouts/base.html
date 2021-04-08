@@ -32,7 +32,12 @@
     <title>{%if page.title %}{{page.title}} | {%endif%} {{site.title}}</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+    <!-- This is a custom favicon that changes from black to white depending on your device's dark theme -->
+    <!-- Don't include the favicon.ico or the svg one won't be loaded -->
+    <link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg" />
+    <link rel="mask-icon" href="/assets/img/favicon.svg" color="#e94562" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png" />
 
     <!-- Reset CSS -->
     <link rel="stylesheet" href="/assets/css/reset.css">
