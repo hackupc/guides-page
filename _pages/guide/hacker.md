@@ -35,7 +35,7 @@ Another option is taking the train from the station in terminal T2 until Sants E
 **From the city center:** Take the L3 line of the metro until Palau Reial. From there, it’s a 5-10min walk until the university. The fare for a single ticket is 2.20€.
 Other options, depending on where are you coming from, are the tram (lines T1, T2 and T3) or the bus (lines 7, 33, 63 among others). The fare for a single ticket in both cases is also 2.20€.
 
-----
+---
 
 ## During the event
 
@@ -43,6 +43,7 @@ Other options, depending on where are you coming from, are the tram (lines T1, T
 
 Slack is our primary method of communication during HackUPC. Anything you need to know during the event will be announced there, and all members of the staff team are easily found in it (look for the HackUPC logo in the profile picture - that’s us!).
 These are some important channels that we have:
+
 - **#announcements:** Everything about the event itself will be in this channel: food being served, intro talks starting, activities such as the nerf gun battles, and other important stuff.
 - **#general:** Talk about HackUPC and get to know fellow hackers.
 - **#issues:** Something happening in your room? Wi-Fi not working? If you see something wrong during the event, tell us through this channel and we’ll try to solve it as fast as possible.
@@ -53,11 +54,9 @@ These are some important channels that we have:
 - **#team_building:** You still don’t have a team? Have an idea? Share your thoughts here and meet people to form a team.
 - **#random:** BIENE
 
-
 ### :alarm_clock: Preliminary Schedule
 
 {% include sections/schedule.md %}
-
 
 ### :wave: Check in
 
@@ -99,6 +98,7 @@ Hacking is only allowed from 9:00 PM on Friday to 9:00 AM on Sunday! You can sta
 You may contact them via the #mentors channel, or via a web-app - you'll learn more about it in the opening ceremony!
 
 ### :trophy: PROJECT SUBMISSIONS
+
 Please submit your projects on our Devpost by Sunday 13th 9:00 PM. Also remember to opt-in for any sponsor prizes that you are eligible for. Submit early, you can edit your submission later!
 
 Our judging will take place expo style. You’ll present your project to the judges and have 3 minutes to demo what you learned and built. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
@@ -114,17 +114,24 @@ The processing of travel reimbursements takes some time - our schedule depends o
 Remember to opt in the challenges when submitting your project! (By submitting, you automatically opt to the HackUPC prize.) Check them during HackUPC in our live page: [live.hackupc.com](http://live.hackupc.com/)
 
 ### :computer: WORKSHOPS AND TALKS
+
 <!-- On Friday night and Saturday morning, you will have the opportunity to attend several workshops given by our sponsors. Check the Live page to know the full list of topics! We will also announce them on Slack as they start. -->
+
 {% include sections/workshops.md %}
+
 <!--
 ### :office: BSC TOURS
 Our university is also home to the Barcelona Supercomputing Centre. If you arrive early, you can join one of our three tours to see the MareNostrum, the 29th most powerful supercomputer in the world, installed in a unique location: the old Torre Girona chapel. We will post soon more details!
 -->
+
 ### Activities
+
 {% include sections/activities.md %}
 
 ---
+
 ### :zzz: Sleeping rooms
+
 We will have sleeping rooms available for those hackers who may need a rest at night. They will be open from 12:00 PM to 8:00 AM, and we will have air mattresses so that you don’t have to sleep on the floor. Although we provide sleeping masks and ear plugs, please be respectful of other people’s rest when you enter or exit the rooms.
 You will find the sleeping rooms in both floors of building A3 and the second floor of building A4.
 
@@ -135,12 +142,15 @@ Showers will be available on Saturday and Sunday from 9:15AM to 11:00AM. Please 
 Ubication: [Poliesportiu](https://g.page/EsportsUPC?share)
 
 ### :woman_technologist: Hacking rooms
+
 Except for the cafeteria in A5105, all the rooms in the 1st and 2nd floors of the buildings A5 and A6 and the 1st floor of A4 are open for you to hack in there!
 
 Spain uses the two-pin continental plugs, types C and F and operates on a 230V supply voltage and 50Hz. Please bring an adapter if needed.
 
 ---
+
 ### :wrench: Hardware
+
 We will have some sweet hardware for you to hack on:
 
 - 3D printing material
@@ -166,17 +176,21 @@ We will have some sweet hardware for you to hack on:
 If you want some, you will have to reserve it once the hacking time starts! You can reserve it via our hardware webapp (coming soon) and check it out at Info Desk.
 
 ### :shallow_pan_of_food: Meals
+
 The food will be given out in front of the buildings A5 and A6. We will let you know through #announcements when it’s ready! We provide food taking into account every special diet that you may have. If you have a special diet and are unsure of the contents of each meal, don’t hesitate to ask the organisers and volunteers who will be next to the food. Remember to bring your water bottle if your drink of choice is water!
 
 ---
+
 ### :link: Links you need!
 
 {% include sections/links.md %}
 
 ### I can't come to HackUPC, what should I do?
+
 If, for any reason, you're unable to finally join us, we would appreciate that you cancel your attendance through MyHackUPC.
 
 ### :camera: Connect with Us
+
 Make sure to tag social media posts related to the event with #HackUPC. We’ll be featuring your posts and highlights from the event on our Instagram, Twitter, and Facebook.
 
 ---

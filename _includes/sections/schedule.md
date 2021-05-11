@@ -1,5 +1,4 @@
-**Check out our  live page (coming soon), as you’ll find the most recently updated schedule there.**
-
+**Check out our live page (coming soon), as you’ll find the most recently updated schedule there.**
 
 Some important times to be aware of:
 
@@ -9,7 +8,6 @@ Some important times to be aware of:
 - 7:00 PM - Opening Ceremony
 - 9:00 PM - Hacking starts!
 - 9:00 PM - Dinner
-
 
 **October 12th, Saturday**
 

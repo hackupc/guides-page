@@ -3,4 +3,4 @@
 - Live page: [live.hackupc.com](https://live.hackupc.com)
 - Slack: [hackupc2019.slack.com](https://hackupc2019.slack.com)
 <!-- - Devpost: [hackupc2019.devpost.com](https://hackupc2019.devpost.com) -->
-- Mentor app: Web application coming soon 
+- Mentor app: Web application coming soon

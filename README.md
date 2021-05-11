@@ -1,4 +1,3 @@
-
 <p align="center">
   <img alt="HackUPC 2019" src="https://raw.githubusercontent.com/hackupc/guides/master/assets/img/logo-hackupc.png" width="50%"/>
 </p>
@@ -10,7 +9,7 @@
 
 Needs: Ruby
 
-## Local 
+## Local
 
 1. `git clone https://github.com/hackupc/guides && cd guides`
 2. `gem install jekyll && gem install jemoji`

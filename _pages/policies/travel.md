@@ -8,9 +8,9 @@ description: How to travel to HackCU.
 
 The main event will be located in the SEEC building at:
 
->4001 Discovery Dr
-> 
->Boulder, CO 80303 
+> 4001 Discovery Dr
+>
+> Boulder, CO 80303
 
 Parking will be available in the parking lot outside of SEEC on Discovery Drive. Be sure to follow directions on the signs so you don't park in permit only parking.
 
@@ -28,7 +28,7 @@ We love international participants! Check the [ESTA website](https://esta.cbp.dh
 
 # Booking your travel
 
-Whether you're flying in or taking the public bus, you will have **5 days to RSVP** once you are granted reimbursement to upload your travel receipts to our reimbursement form. **After this period, we cannot guarantee admission and will not increase your travel cap.** 
+Whether you're flying in or taking the public bus, you will have **5 days to RSVP** once you are granted reimbursement to upload your travel receipts to our reimbursement form. **After this period, we cannot guarantee admission and will not increase your travel cap.**
 
 ## Dates and time
 
@@ -56,7 +56,7 @@ If you research transportation from your location and find the travel cap to be 
 - Confirm your event attendance and attend the event.
 - Be approved by the HackCU admin team for reimbursement. You will receive an email.
 - Submit a project to Devpost.
-- You will be required to submit a receipt of your travel expenses. 
+- You will be required to submit a receipt of your travel expenses.
 
 ## Reimbursement method
 
@@ -67,17 +67,17 @@ If you research transportation from your location and find the travel cap to be 
 ## Submit your flight/bus receipts
 
 Receipts should include:
- 
+
 - Purchase date
 - Your name
 - Detailed price (flight price, taxes...)
 - Proof of payment for the purchase (i.e. a reference to a debit/credit card such as Visa 1234)
- 
+
 Not all travel receipts will include the name of the purchaser, but for airline receipts, the person being reimbursed needs to be shown as the traveling party. Some ground transportation receipts (such as Uber and Lyft) usually include the name of the person who used the service. For other types of travel receipts (bus, taxi, shuttle service, etc.), even if the receipt does not show the traveler’s name, the person expecting reimbursement needs to obtain some form of receipt. If payment for the travel service was made with a debit or credit card, copies of the transaction on a bank statement could support proof of payment for the service.
 
 ## Submit your car itenerary
 
-If you are traveling by car please submit gas receipts as well as a Google Maps screenshot that shows where you traveled from and mileage. 
+If you are traveling by car please submit gas receipts as well as a Google Maps screenshot that shows where you traveled from and mileage.
 
 ## Other details
 

@@ -17,6 +17,7 @@ We hope that, by the end of this document, you have a clearer vision on how to f
 ### Location
 
 HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord.
+
 > Campus Nord, Carrer de Jordi Girona, 1, 3, 08034 Barcelona.
 
 ### Parking
@@ -28,7 +29,7 @@ HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord.
 You can bring whatever you want to the event while it fits in your stand. Here’s a few examples:
 
 - Laptops
-- Corporative shirts 
+- Corporative shirts
 - Merchandising (also known as swag) for participants
 - A lot of energy!
 
@@ -45,6 +46,7 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 {% include sections/schedule.md %}
 
 ---
+
 ## Judging criteria
 
 {% include sections/judging.md %}
@@ -53,20 +55,21 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 
 ## Sponsor FAQ
 
-
 ### When to arrive?
+
 If you have a stand for the event, we recommend you arrive between 13:00 PM and 15:00 PM to
 set up your stand on your location. We recommend you to stay at least from when you arrive until hacking begins at noon.
 
-
 ### What do you do with swag?
+
 Participants love company swag! If you have a table, feel free to bring it for your table.
 
-
 ### How can I join Slack?
+
 When the event approaches we will send you an invitation link so you can join the slack and start talking with the hackers!
 
 ### Will there be food and drinks?
+
 We will be providing all meals, snacks and drinks, and you are allowed to eat and drink anything at the event! If you want to bring your own food fee free, however we provide all kind of diet options.
 
 ---
@@ -79,7 +82,7 @@ We will be providing all meals, snacks and drinks, and you are allowed to eat an
 
 {% include sections/links.md %}
 
-----
+---
 
 ## More questions?
 
