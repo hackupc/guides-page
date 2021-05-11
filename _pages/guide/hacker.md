@@ -67,7 +67,7 @@ If you arrive later, go to info desk for late check-in. If you let us know that 
 
 The opening ceremony will be at the [Vertex](https://goo.gl/maps/vu1vfey5v8u) building at 7:00 PM. Doors will open at 6:30 PM.
 
-Keep in mind that the auditorium has limited seating. If you can't make it, we'll stream the ceremony in the hacking rooms, or you can watch it from your PC in [live.hackupc.com](http://live.hackupc.com/)
+Keep in mind that the auditorium has limited seating. If you can't make it, we'll stream the ceremony in the hacking rooms, or you can watch it from your PC in [live.hackupc.com](https://live.hackupc.com/)
 
 ### :fork_and_knife: Diets
 
@@ -87,7 +87,7 @@ When you check-in, you will be provided with a bracelet specifying your diet. Pl
 ### :raised_hand: Rules
 
 The #1 rule is “Be respectful”.
-Please read [HackUPC’s code of conduct](https://hackupc.com/code_conduct). We require all hackers to abide by these rules.
+Please read [HackUPC’s code of conduct](https://legal.hackersatupc.org/hackupc/code_of_conduct). We require all hackers to abide by these rules.
 
 ### :bulb: Hacking
 
@@ -111,7 +111,7 @@ The processing of travel reimbursements takes some time - our schedule depends o
 
 ### :woman_office_worker: SPONSOR CHALLENGES
 
-Remember to opt in the challenges when submitting your project! (By submitting, you automatically opt to the HackUPC prize.) Check them during HackUPC in our live page: [live.hackupc.com](http://live.hackupc.com/)
+Remember to opt in the challenges when submitting your project! (By submitting, you automatically opt to the HackUPC prize.) Check them during HackUPC in our live page: [live.hackupc.com](https://live.hackupc.com/)
 
 ### :computer: WORKSHOPS AND TALKS
 

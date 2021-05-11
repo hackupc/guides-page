@@ -49,7 +49,7 @@ Make sure to:
 
 ### Locations :round_pushpin:
 
-You can see the location with more detail in https://hackupc.com/live#/maps :world_map:
+You can see the location with more detail in https://live.hackupc.com/map :world_map:
 
 #### A6
 
@@ -93,12 +93,12 @@ You can see the location with more detail in https://hackupc.com/live#/maps :wor
 
 ### Official Schedule :calendar:
 
-With this schedule you can answer all questions from attendees. You should also direct hackers to use http://hackupc.com/live. There will be a live version of this schedule there, with updates and announcements about what’s going on at any given moment during the event.
+With this schedule you can answer all questions from attendees. You should also direct hackers to use https://livehackupc.com. There will be a live version of this schedule there, with updates and announcements about what’s going on at any given moment during the event.
 You can see a detailed version in the EVENT SCHEDULE.
 
 ### Wifi :signal_strength:
 
-We have a dedicated SSID. It will work from Friday to Sunday. Information will be provided in http://hackupc.com/live
+We have a dedicated SSID. It will work from Friday to Sunday. Information will be provided in https://livehackupc.com
 
 SSID: To be defined
 Password: To be defined
@@ -176,4 +176,4 @@ Here are the different bracelets that will be available during the event with th
 
 ### Code of Conduct
 
-TL;DR. Be respectful. Harassment and abuse are never tolerated. You are the forefront image of the hackathon when the organizers are not around. Please read [HackUPC's code of Conduct](https://hackupc.com/code_conduct) and try to convey the same attitude we ask our participants to have :)
+TL;DR. Be respectful. Harassment and abuse are never tolerated. You are the forefront image of the hackathon when the organizers are not around. Please read [HackUPC's code of Conduct](https://legal.hackersatupc.org/hackupc/code_of_conduct) and try to convey the same attitude we ask our participants to have :)
