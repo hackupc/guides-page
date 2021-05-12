@@ -1,6 +1,6 @@
 We have curated various workshops and events for you to explore. We will announce them on Discord too!
 
-_Comming soon, stay tunned._
+_Coming soon, stay tunned._
 
 <!--
 - **Talk - Git & Github, by Github:** Introduction to git and GitHub, learn the most basic commands for git and collaborate with GitHub. _A5001, Friday 10:30 PM_

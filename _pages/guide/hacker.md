@@ -75,7 +75,7 @@ These are some important channels that we have:
 - **#announcements:** Everything about the event itself will be in this channel: intro talks starting, activities such as the nerf gun battles, and other important stuff.
 
 - **#tech-problems:** If you’re stuck in your project, ask for help here and a mentor or other hackers will help you.
-- **help:** Do you have a problem with Discord? You don't know how to use the bot? Send your message on this channel and any organizer will help you with your problem as soon as possible!
+- **#help:** Do you have a problem with Discord? You don't know how to use the bot? Send your message on this channel and any organizer will help you with your problem as soon as possible!
 - **#general:** Talk about HackUPC and get to know fellow hackers.
 
 - **#team-building:** You still don’t have a team? Have an idea? Share your thoughts here and meet people to form a team.
@@ -86,7 +86,7 @@ These are some important channels that we have:
 - :sound: **chill:** If you want to rest from your project or disconnect for a while, you can hang out here.
 
 - **#general-activities:** Activities information, links and anything activity-related.
-- **playground:** Enjoy the activities all together!
+- **#playground:** Enjoy the activities all together!
 - **#rubber-duck:** Will you be able to answer all the questions?
 - **#draw-your-biene:** Let your imagination loose and create your own Biene!
 - :sound: **playground:** Voice channel to play all together!
@@ -104,15 +104,18 @@ Each sponsor has a dedicated text and voice channel.
 {% include sections/schedule.md %}
 
 ### :wave: Check in
-
+<!--
 Check-in will be open from 4:00 to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! We will give you, among other things, **a bracelet that you will have to wear at all times.**
 If you arrive later, go to info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! We will also have baggage check-in so that you can leave your bags in a safe place.
+-->
 
 ### :clapper: Opening Ceremony
 
-The opening ceremony will be at the [Vertex](https://goo.gl/maps/vu1vfey5v8u) building at 7:00 PM. Doors will open at 6:30 PM.
+The opening ceremony will be via [Twitch](twitch.tv/hackersupc) at 7:00 PM. <!--Doors will open at 6:30 PM. -->
 
+<!--
 Keep in mind that the auditorium has limited seating. If you can't make it, we'll stream the ceremony in the hacking rooms, or you can watch it from your PC in [live.hackupc.com](https://live.hackupc.com/)
+-->
 
 <!--
 ### :fork_and_knife: Diets
@@ -146,7 +149,7 @@ You may contact them via the #tech-problems channel.
 
 ### :trophy: PROJECT SUBMISSIONS
 
-Please submit your projects on our Devpost by Sunday 13th 9:00 PM. Also remember to opt-in for any sponsor prizes that you are eligible for. Submit early, you can edit your submission later!
+Please submit your projects on our Devpost by Sunday 16th 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. Submit early, you can edit your submission later!
 
 Our judging will take place expo style. You’ll present your project to the judges and have 3 minutes to demo what you learned and built. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
 
