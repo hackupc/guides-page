@@ -2,7 +2,6 @@ Some important times to be aware of:
 
 **May 14th, Friday**
 
-- 4:00 PM - 6:00 PM - Hacker registration
 - 7:00 PM - 9:00 PM - Opening Ceremony
 - 9:00 PM - Hackathon starts!
 - 9:00 PM - 9:30 PM - Teambuilding
