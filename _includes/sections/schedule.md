@@ -1,4 +1,4 @@
-Some important times to be aware of:
+Keep in mind that our time zone is UTC+2 (CEST), so some important times to be aware of are:
 
 **May 14th, Friday**
 
