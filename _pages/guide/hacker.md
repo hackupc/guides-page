@@ -194,6 +194,7 @@ You will find the sleeping rooms in both floors of building A3 and the second fl
 ### :shower: Showers
 
 Don't forget to take a shower!
+
 <!--
 Showers will be available on Saturday and Sunday from 9:15AM to 11:00AM. Please bring your towel and toiletry, as we will not provide it. The showers are shared among other people, if you feel uncomfortable you can bring a swimming suit.
 
@@ -204,7 +205,9 @@ Ubication: [Poliesportiu](https://g.page/EsportsUPC?share)
 Except for the cafeteria in A5105, all the rooms in the 1st and 2nd floors of the buildings A5 and A6 and the 1st floor of A4 are open for you to hack in there!
 
 Spain uses the two-pin continental plugs, types C and F and operates on a 230V supply voltage and 50Hz. Please bring an adapter if needed.
+
 -->
+
 ---
 
 ### :wrench: Hardware
