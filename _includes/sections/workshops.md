@@ -1,5 +1,8 @@
-We have curated various workshops and events for you to explore. We will announce them on Slack too!
+We have curated various workshops and events for you to explore. We will announce them on Discord too!
 
+_Coming soon, stay tunned._
+
+<!--
 - **Talk - Git & Github, by Github:** Introduction to git and GitHub, learn the most basic commands for git and collaborate with GitHub. _A5001, Friday 10:30 PM_
 - **Talk - Initial Brainstorming, by Opentrends:** Opentrends is helping you choose the right project. In our workshop we're going to implement design thinking methodologies to find your most appropiate challenge. Don't miss out! _A5002, Friday 10:30 PM_
 - **Talk - Data for good cities, by Everis:** More and more companies are attempting to become data-driven. Turning data into knowledge and knowledge into intelligent actions is crucial for digital transformation. Let's see some interesting examples of how to do it for a good purpose. _A5001, Friday 11:00 PM_
@@ -13,3 +16,4 @@ We have curated various workshops and events for you to explore. We will announc
 - **Talk: Implementing R projects as libraries, by McKinsey & Company:**: Learn how to structure a project as an R library by one of our expert coders! _A5001, Saturday 11:30 AM_
 - **Talk: Meetup Hacktoberfest, by Github:** Cheers. _A5001, Saturday 04:00 PM_
 - **Talk: How to organize your hackathon, by Hackers@UPC:** Would you like to organize a hackathon? Come listen some of our experiences and tips. Don't be shy, we're here to help you! _A5001, Saturday 05:00 PM_
+-->

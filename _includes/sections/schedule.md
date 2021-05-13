@@ -1,29 +1,25 @@
-**Check out our live page (coming soon), as you’ll find the most recently updated schedule there.**
+Keep in mind that our time zone is UTC+2 (CEST), so some important times to be aware of are:
 
-Some important times to be aware of:
+**May 14th, Friday**
 
-**October 11th, Friday**
+- 7:00 PM - 9:00 PM - Opening Ceremony
+- 9:00 PM - Hackathon starts!
+- 9:00 PM - 9:30 PM - Teambuilding
+- 9:30 PM - 11.30 PM - Talks 
 
-- 4:00 PM - Check-in
-- 7:00 PM - Opening Ceremony
-- 9:00 PM - Hacking starts!
-- 9:00 PM - Dinner
+**May 15th, Saturday**
 
-**October 12th, Saturday**
+- 10:00 AM - 11:00 AM - Sport activity
+- 12:00 AM - 1:00 PM - Nerf activity
+- 5:45 PM - Pizza draw
+- 6:00 PM - 7:00 PM - Freehand activity
+- 9:45 PM - Draw
+- 10:00 PM - 11:00 PM - SlideShare Show
 
-- 1:30 AM - Midnight snack
-- 8:00 AM - Breakfast
-- 9:15 AM - Showers open
-- 1:00 PM - Lunch
-- 8:00 PM - Dinner
+**May 16th, Sunday**
 
-**October 13th, Sunday**
-
-- 1:00 AM - Midnight snack
-- 1:00 AM - Nerf gun battles
-- 8:00 AM - Breakfast
-- 9:00 AM - Hacking ends!
-- 9:15 AM - Showers open
-- 10:15 AM - Project expositions
-- 1:00 PM - Lunch
-- 2:30 PM - Closing ceremony
+- 8:00 AM - 9:15 AM - Hack Submissions
+- 9:00 AM - Hack Ends
+- 10:15 AM - 1:15 PM - Hack Demos
+- 1:00 PM - Last draw
+- 2:30 PM - 4:30 PM  - Closing ceremony
