@@ -9,11 +9,19 @@
 
 Needs: Ruby
 
+First of all, let's copy the project!
+
+`git clone https://github.com/hackupc/guides && cd guides`
+
 ## Local
 
-1. `git clone https://github.com/hackupc/guides && cd guides`
-2. `gem install jekyll && gem install jemoji`
-3. `jekyll serve --watch`
+1. `gem install jekyll && gem install jemoji`
+1. `jekyll serve --watch`
+
+## Docker
+
+1. `docker build -t jekyll .`
+1. `docker run -v $(pwd):/site -p 4000:4000 jekyll`
 
 ## Deploy
 
