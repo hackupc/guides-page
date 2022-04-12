@@ -11,10 +11,10 @@ Keep in mind that our time zone is UTC+2 (CEST), so some important times to be a
 
 - 10:00 AM - 11:00 AM - Sport activity
 - 12:00 AM - 1:00 PM - Nerf activity
-- 5:45 PM - Pizza draw
-- 6:00 PM - 7:00 PM - Freehand activity
+- 5:45 PM - Draw
+- 6:00 PM - 7:00 PM - SlideShare Show
 - 9:45 PM - Draw
-- 10:00 PM - 11:00 PM - SlideShare Show
+- 10:00 PM - 11:00 PM - Freehand activity
 
 **May 16th, Sunday**
 
