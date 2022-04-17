@@ -1,6 +1,6 @@
 - Our website: [hackupc.com](https://hackupc.com/)
 - Hacker’s personal area: [my.hackupc.com](https://my.hackupc.com)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Devpost: [hackupc2021.devpost.com](https://hackupc2021.devpost.com)
-<!--- Slack: [hackupc2019.slack.com](https://hackupc2019.slack.com) -->
-<!-- - Mentor app: Web application coming soon -->
+- Devpost: [hackupc2022.devpost.com](https://hackupc2022.devpost.com)
+- Slack: [hackupc2022.slack.com](https://hackupc2022.slack.com)
+- Twitch: [Our channel](https://www.twitch.tv/hackersupc) 

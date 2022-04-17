@@ -1,5 +1,3 @@
-We have curated various workshops and events for you to explore. We will announce them on Discord too!
-
 _Coming soon, stay tunned._
 
 <!--
