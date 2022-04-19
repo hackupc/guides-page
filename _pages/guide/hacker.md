@@ -71,6 +71,7 @@ These are some important channels that we have:
 - **#announcements:** Everything about the event itself will be in this channel: food being served, intro talks starting, activities such as the nerf gun battles, and other important stuff.
 - **#general:** Talk about HackUPC and get to know fellow hackers.
 - **#issues:** Something happening in your room? Wi-Fi not working? If you see something wrong during the event, tell us through this channel, and we’ll try to solve it as fast as possible.
+- **#help:** Do you have any question? During the event this channel and the BieneBot will be available with to help you with every question you may have!
 - **#mentors:** If you’re stuck in your project, ask for help here and a mentor will come help you.
 - **#explore-bcn:** If you’re coming a few days before, or staying after the event to visit Barcelona, this is the channel where you can ask the locals for suggestions about what to visit or where to eat.
 - **#hackathon-organizers:** Are you a hackathon organizer, or interested in starting one in your college? Meet people like you here!
@@ -88,7 +89,7 @@ These are some important channels that we have:
 ## :wave: Check in
 
 ### :man_technologist::woman_technologist: Online
-All the detail will be shipped on the 29th, but you will have available an online way to check in and be able to participate in all the surprises and activities we have prepared for you!
+You will have to check-in through MyHackUPC in order to be able to participate in all the surprises and activities we have prepared for you! More details will be shipped on the 29th!
 
 ### :woman::man: In person
 Check-in will be open from 5:00 PM to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail and the covid pass, as it will help us go quicker! We will give you, among other things, **a bracelet that you will have to wear at all times.**
@@ -135,7 +136,7 @@ During all the weekend we have mentors available for you! If you have any tech-r
 
 ## :trophy: Project Submissions
 
-Please submit your projects on our Devpost by Sunday 1st at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and edit your submission later!
+Please submit your projects on our [Devpost](https://hackupc2022.devpost.com) by Sunday 1st at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and edit your submission later!
 
 Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
 
@@ -178,7 +179,7 @@ You will find the sleeping rooms in the A4 building. You can check the maps in o
 
 ## :shower: Showers
 
-Don't forget to take a shower! Especially this year, after a pandemic, it's really necessary to get showers and be hygienic! We will provide 2 different slots on Saturday (morning and afternoon) where you will be able to have a shower.
+Don't forget to take a shower! Especially this year, after a pandemic, it’s really necessary to take showers and be hygienic! We will provide 2 different slots on Saturday (morning and afternoon) where you will be able to have a shower.
 
 Showers will be available on Saturday from 9:15AM to 11:00AM and from 5:00PM to 7:00PM. Please bring your towel and toiletry, as we will not provide it. The showers are shared among other people, if you feel uncomfortable you can bring a swimming suit. They are obviously separated for gender.
 
@@ -188,7 +189,7 @@ Location: [Poliesportiu](https://g.page/EsportsUPC?share)
 
 ## :woman_technologist: Hacking rooms
 
-Except for the cafeteria in A5105, all the rooms in the 1st and 2nd floors of the buildings A5 and A6 are open for you to hack in there!
+Except for the cafeteria in A5106, all the rooms in the 1st and 2nd floors of the buildings A5 and A6 are open for you to hack in there!
 
 Spain uses the two-pin continental plugs, types C and F and operates on a 230V supply voltage and 50Hz. Please bring an adapter if needed.
 
@@ -198,7 +199,7 @@ Spain uses the two-pin continental plugs, types C and F and operates on a 230V s
 
 We will have some sweet hardware for you to hack on:
 
-``List coming soon, stay tunned``
+``List coming soon, stay tuned``
 
 <!--
 - 3D printing material
@@ -265,15 +266,15 @@ Make sure to tag social media posts related to the event with #HackUPC2022. We�
 ## :airplane: Travel Reimbursement
 
 ### :moneybag: Amount
-We will be offering flight reimbursements on a case-by-case basis. If you have been eligible you will have received an email, you will be required to submit travel receipts on our travel reimbursement form in [MyHackUPC](https://my.hackupc.com/). Take in account that your transport may or may not be covered by reimbursements.
+We will be offering flight reimbursements on a case-by-case basis. If you are eligible you will have received an email, you will be required to submit travel receipts on our travel reimbursement form in [MyHackUPC](https://my.hackupc.com/). Take in account that your transport may or may not be covered by reimbursements.
 
 ---
 
 ### :warning: Requirements
 In order to get the money back, you should meet the requirements:
 - Confirm your attendance and attend to the event (you need to have the QR invitation code)
-- Be approved by the HackUPC team for reimbursement, received by email.
-- Submit your project to Devpost and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
+- Be approved by the HackUPC team for reimbursement, received via email.
+- Submit your project to [Devpost](https://hackupc2022.devpost.com) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
 - Submit a valid receipt with your travel expenses.
 - Your project must follow all the [HackUPC rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions).
 
@@ -297,14 +298,14 @@ All the receipts should include the following information:
 
 ## :man_student: ECTS credits
 
-**Not all the faculties gives ECTS for participating in HackUPC**.
+**Not all the faculties give ECTS for participating in HackUPC**.
 
 ---
 
 ### :warning: Requirements
 In order to get the ECTS credits, you should meet the requirements:
 - Confirm your attendance and attend to the event (you need to have the QR invitation code)
-- Submit your project to Devpost and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
+- Submit your project to [Devpost](https://hackupc2022.devpost.com) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
 - Your project must follow all the [HackUPC rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions).
 
 ---

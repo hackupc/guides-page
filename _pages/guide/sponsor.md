@@ -12,17 +12,17 @@ We hope that, by the end of this document, you have a clearer vision on how to f
 
 ---
 
-## How to get there
-
-### Location
+## :round_pushpin: Location
 
 HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord.
 
 > Campus Nord, Carrer de Jordi Girona, 1, 3, 08034 Barcelona.
 
-### Parking
+### :oncoming_automobile: Parking
 
 {% include sections/parking.md %}
+
+---
 
 ## What to bring
 
@@ -32,12 +32,19 @@ You can bring whatever you want to the event while it fits in your stand. Hereâ€
 - Corporative shirts
 - Merchandising (also known as swag) for participants
 - A lot of energy!
+- Remeber also that this year we ask for covid certificate, a valid certificate can match the following options:
+    1. 1 vaccine + passing the covid
+    2. 2 vaccines
+    3. 3 vaccines
+    4. Negative PCR
+  
+---
 
 ## Check in
 
 > A5 building from Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona
 
-You can go directly to the sponsor check-in, it is located at the same place as hackers. Please let us know when you arrive on the event so we can help you to set-up everything! You can talk to an organizer at any time to ask fo help!
+You can go directly to the sponsor check-in, it is located at the same place as hackers, you can check the concrete location in our [live page](https://live.hackupc.com/maps). Please let us know when you arrive to the event so we can help you to set-up everything! You can talk to an organizer (fucsia t-shirts) at any time to ask fo help!
 
 ---
 
@@ -47,7 +54,7 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 
 ---
 
-## Judging criteria
+## Recommended judging criteria
 
 {% include sections/judging.md %}
 
@@ -57,8 +64,7 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 
 ### When to arrive?
 
-If you have a stand for the event, we recommend you arrive between 13:00 PM and 15:00 PM to
-set up your stand on your location. We recommend you to stay at least from when you arrive until hacking begins at noon.
+If you have a stand for the event, we recommend you arrive between 14:00 and 16:00 to set up your stand on your location, the hackers will start arriving at 17:00 since the checkin for them starts at that moment. We recommend you to stay at least from when you arrive until hacking begins at noon.
 
 ### What do you do with swag?
 
@@ -66,7 +72,7 @@ Participants love company swag! If you have a table, feel free to bring it for y
 
 ### How can I join Slack?
 
-When the event approaches we will send you an invitation link so you can join the slack and start talking with the hackers!
+When the event approaches we will send you an invitation link, so you can join the slack and start talking with the hackers! Please set a profile picture, once that is done our bot `BieneBot` will send you a picture with a filter of your company, that will help hackers to reach you if they want to talk with you.
 
 ### Will there be food and drinks?
 
@@ -74,7 +80,7 @@ We will be providing all meals, snacks and drinks, and you are allowed to eat an
 
 ---
 
-## Social Media
+## Our Social Media
 
 {% include sections/social.md %}
 
@@ -86,4 +92,4 @@ We will be providing all meals, snacks and drinks, and you are allowed to eat an
 
 ## More questions?
 
-{% include sections/contact.md %}
+If you have any questions, please contact your direct contact from HackUPC or any organizer on slack, you can recognize an organizer by the picture, check if there is hackupc logo overlay!
