@@ -26,7 +26,7 @@ HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord. The
 
 ---
 
-## :judge: Judging criteria
+## :man_judge::woman_judge: Judging criteria
 
 {% include sections/judging.md %}
 

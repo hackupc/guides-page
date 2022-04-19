@@ -16,7 +16,7 @@ You may have received an email with an invitation to join the workspace, once yo
 
 ---
 
-## :check: Fill the doodle
+## :white_check_mark: Fill the doodle
 
 Our staff team has emailed you a doodle, please fill your availability. Take in account that in HackUPC you will have food and a place to sleep, we will provide you with air mattress.
 
@@ -119,11 +119,11 @@ You can see the location with more detail in [live page](https://live.hackupc.co
 - :gun: Nerfgun battle (A4101 and A4102)
 - :handshake: TeamBuilding (A4001) 
 
-### :ball: Poliesportiu
+### :soccer: Poliesportiu
 
 - :shower: Showers 
 
-### :building: Vertex
+### :office: Vertex
 
 - :dancing_men: Opening and Closing ceremony 
 
