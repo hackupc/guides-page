@@ -162,8 +162,7 @@ In case of doubts, write in `#staff` with your questions, any organizer may answ
 
 During the event, hackers will ask you lots of questions, **it’s okay if you don’t know the answer.** When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the `#staff` slack channel or through the phone.
 
----
-
+<!-- 
 ## :four: Volunteer groups
 
 In every edition there are **four big groups** with different and independent tasks. The whole tasks are described in detail in the document named Volunteer Teams that we sent you. Every volunteer will work differently in each of them when needed. The groups are:
@@ -208,7 +207,7 @@ The responsible of this team is **Yaiza Cano**, she will tell you what you need 
 ### All in One SuperVolunteer
 
 **Arnau González** will be helping the four teams, in case of doubt or any problem you can also ask him.
-
+-->
 ---
 
 ## :tshirt: T-Shirts 
