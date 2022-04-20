@@ -56,9 +56,9 @@ We will have one private channel for volunteers named `#staff`. **Please do not 
 
 Make sure to:
 
-- Sign up on Slack using the invitation email you've recived
+- Sign up on Slack using the invitation email you've received
 - Download the Slack App (for iOS, Android and Windows Phone)
-- **Enable all push notifi-cations for mentions.**
+- **Enable all push notifications for mentions.**
 - Set a profile picture and when the BieneBot sends you the picture with the volunteers overlay changed to that one.
 
 ---
@@ -72,7 +72,7 @@ Make sure to:
 - (Eric) 634 562 650
 - (Carlota) 616 402 934
 - (Neus) 629 118 185
-- (Tere) 
+- (Tere) 645 37 23 34
 
 ---
 
@@ -87,7 +87,7 @@ Make sure to:
 - (Eric) 634 562 650
 - (Carlota) 616 402 934
 - (Neus) 629 118 185
-- (Tere) 
+- (Tere) 645 37 23 34
 
 ---
 
@@ -129,8 +129,8 @@ You can see the location with more detail in [live page](https://live.hackupc.co
 
 ### :plate_with_cutlery: Meal zone 
 
-- Hall in front of A5 (every meal except from saturday lunch)
-- Parking in front of Omega (Saturday lunch)
+- :pizza::hotdog: Hall in front of A5 (every meal except from saturday lunch)
+- :shallow_pan_of_food: Parking in front of Omega (Saturday lunch)
 
 ---
 
