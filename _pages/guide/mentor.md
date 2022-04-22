@@ -6,11 +6,11 @@ description: Guide to mentor during HackUPC
 
 First of all, in the name of the HackUPC team, we’d like to thank you all for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn all about a new technology, and come up with creative ideas**. Participants will then have 24 hours to work on any project they choose. HackUPC gives participants the resources, space, and time to create something amazing.
 
-## Who is a mentor?
+# Who is a mentor?
 
 Mentors are experienced volunteers who want to share their knowledge with new hackers and help them get through different roadblocks. They help new hackers make their dreams a reality by helping them during the event. However, mentors do **not** participate at the hackathon like hackers do and therefore, they can’t submit any project.
 
-## Which are my responsibilities as a mentor?
+# Which are my responsibilities as a mentor?
 
 During the event, we expect mentors to:
 

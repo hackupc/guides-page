@@ -24,7 +24,7 @@ HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord.
 
 ---
 
-## What to bring
+## :briefcase: What to bring
 
 You can bring whatever you want to the event while it fits in your stand. Hereâ€™s a few examples:
 
@@ -40,7 +40,7 @@ You can bring whatever you want to the event while it fits in your stand. Hereâ€
   
 ---
 
-## Check in
+## :wave: Check in
 
 > A5 building from Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona
 
@@ -48,13 +48,13 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 
 ---
 
-## Preliminary schedule
+## :alarm_clock: Preliminary Schedule
 
 {% include sections/schedule.md %}
 
 ---
 
-## Recommended judging criteria
+## :man_judge::woman_judge: Recommended judging criteria
 
 {% include sections/judging.md %}
 
