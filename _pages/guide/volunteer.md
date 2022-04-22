@@ -156,21 +156,11 @@ During HackUPC, **Neus Oliveras and Tere Rovira will be your main point of conta
 
 In case of doubts, write in `#staff` with your questions, any organizer may answer or go to HQ (`A6E02`) and ask an organizer there. Also, you can contact with your team lead, as we’ll explain below, with any problem.
 
----
-
-## :thinking: What happens if I don’t know something? 
-
-During the event, hackers will ask you lots of questions, **it’s okay if you don’t know the answer.** When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the `#staff` slack channel or through the phone.
-
----
-
-## :muscle: Tasks
-
 Next, you can see a list of the tasks that will be carried out during the weekend, so you can have an idea of what you will be doing. They are organized in two groups: HackerXperience and Logistics, as the department that is responsible of those tasks.
 
-### HackerXperience
+### :medal_military: HackerXperience
 
-**The supervolunteers of HackerExperience are Alba Lamas and Maria Abas. They will help you in case you have any doubts relating these tasks.** 
+**The supervolunteers of HackerExperience are Alba Lamas and Maria Abas. They will help you in case you have any doubts relating these tasks.**
 
 The main tasks that this department is carrying are:
 - Check in
@@ -182,10 +172,10 @@ Also, the tasks relating to activities:
 - Talks and activities support
 - Hacker support
 - Team building
-  
-### Logistics
 
-**The supervolunteers of Logistics are Victor Paniello and Genís Gutierrez. They will help you in case you have any doubts relating these tasks.** 
+### :shallow_pan_of_food: Logistics
+
+**The supervolunteers of Logistics are Victor Paniello and Genís Gutierrez. They will help you in case you have any doubts relating these tasks.**
 
 The main tasks that this department is carrying are:
 - Warehouse control
@@ -198,6 +188,12 @@ And the ones relating to setting up the spaces for the hackers:
 - A5/A6 Set up
 - Sleeping zone setup A4
 - Mattresses
+
+---
+
+## :thinking: What happens if I don’t know something? 
+
+During the event, hackers will ask you lots of questions, **it’s okay if you don’t know the answer.** When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the `#staff` slack channel or through the phone.
 
 ---
 
