@@ -18,7 +18,7 @@ You may have received an email with an invitation to join the workspace, once yo
 
 ## :white_check_mark: Fill the doodle
 
-Our staff team has emailed you a doodle, please fill your availability. Take in account that in HackUPC you will have food and a place to sleep, we will provide you with air mattress.
+Our staff team has emailed you a doodle, please fill your availability. You can stay the whole weekend at UPC if you want. Take into account that you will be provided both with food and a place to sleep: the volunteers and organizers eat the same as the hackers (just later) and we will give you an air matress so your can sleep in the volunteer's HQ.
 
 ---
 
@@ -162,52 +162,43 @@ In case of doubts, write in `#staff` with your questions, any organizer may answ
 
 During the event, hackers will ask you lots of questions, **it’s okay if you don’t know the answer.** When this happens act cool and let them know you will figure out an answer. You can ask us anytime on the `#staff` slack channel or through the phone.
 
-<!-- 
-## :four: Volunteer groups
+---
 
-In every edition there are **four big groups** with different and independent tasks. The whole tasks are described in detail in the document named Volunteer Teams that we sent you. Every volunteer will work differently in each of them when needed. The groups are:
+## :muscle: Tasks
 
-### Hacker support
+Next, you can see a list of the tasks that will be carried out during the weekend, so you can have an idea of what you will be doing. They are organized in two groups: HackerXperience and Logistics, as the department that is responsible of those tasks.
 
-The responsible of this team is **Laura Pérez**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
+### HackerXperience
 
+**The supervolunteers of HackerExperience are Alba Lamas and Maria Abas. They will help you in case you have any doubts relating these tasks.** 
+
+The main tasks that this department is carrying are:
 - Check in
 - Baggage Check in
 - InfoDesk
 - Hardware Lab
 
-### Activities support
-
-The responsible of this team is **Sandra Flores**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
-
-- Opening and Closing ceremony support
-- Talks support
-- Social media support
+Also, the tasks relating to activities:
+- Talks and activities support
 - Hacker support
 - Team building
+  
+### Logistics
 
-### Logistics team
+**The supervolunteers of Logistics are Victor Paniello and Genís Gutierrez. They will help you in case you have any doubts relating these tasks.** 
 
-The responsible of this team is **Neus Oliveras**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
-
+The main tasks that this department is carrying are:
 - Warehouse control
 - Meal set-up
 - Unload van
 - Garbage collector
 - Water + food break!
 
-### Set up team
-
-The responsible of this team is **Yaiza Cano**, she will tell you what you need to do and solve any questions you may have. The main tasks are:
-
+And the ones relating to setting up the spaces for the hackers:
 - A5/A6 Set up
-- Sleeping zone setup
+- Sleeping zone setup A4
 - Mattresses
 
-### All in One SuperVolunteer
-
-**Arnau González** will be helping the four teams, in case of doubt or any problem you can also ask him.
--->
 ---
 
 ## :tshirt: T-Shirts 
