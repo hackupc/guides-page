@@ -4,3 +4,4 @@
 - Devpost: [hackupc2022.devpost.com](https://hackupc2022.devpost.com)
 - Slack: [hackupc2022.slack.com](https://hackupc2022.slack.com)
 - Twitch: [Our channel](https://www.twitch.tv/hackersupc) 
+- Youtube: [Our channel](https://www.youtube.com/c/HackersUPC/featured)
