@@ -3,6 +3,4 @@ We love to hear from you on the social media, so feel free to tag us on your pos
 - Instagram: [@hackupc](https://www.instagram.com/hackupc/)
 - Twitter: [@hackupc](https://twitter.com/HackUPC/)
 - Facebook: [fb.com/hackupc](https://www.facebook.com/hackupc)
-- Linkedin:
-- Twitch:
-- Youtube:
+- Linkedin: [LinkedIn](https://www.linkedin.com/company/hack-upc/)
