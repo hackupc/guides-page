@@ -16,12 +16,6 @@ Pay attention, as we have included all the important information that you need t
 
 - **Valid ID** - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you'd like to check out hardware.
 - **QR Invitation code** - This is the QR we sent you when you've confirmed the participation.
-- **Covid certificate** - A valid certificate can match the following options:
-  1. 1 vaccine + passing the covid
-  2. 2 vaccines
-  3. 3 vaccines
-  4. Negative PCR
-
 - **Laptop, Phone, Chargers, and Other Devices** - Don't forget to bring your chargers and extra batteries for any device you'll be using.
 - **Headphones** - If you need to focus it will be easier with them.
 - **Comfortable clothes** - We will provide you a T-shirt but for sure you will need more clothes.
@@ -92,9 +86,7 @@ These are some important channels that we have:
 You will have to check-in through MyHackUPC in order to be able to participate in all the surprises and activities we have prepared for you! More details will be shipped on the 29th!
 
 ### :woman::man: In person
-Check-in will be open from 5:00 PM to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail and the covid pass, as it will help us go quicker! 
-
-Before the check-in, you will need to show your valid covid passport, and in the check in we will check the rest of the information and we will give you, among other things, **a bracelet that you will have to wear at all times.**
+Check-in will be open from 5:00 PM to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! In the check in we will check the rest of the information and we will give you, among other things, **a bracelet that you will have to wear at all times.**
 
 If you arrive later, go to info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! 
 
@@ -107,7 +99,7 @@ We will also have baggage check-in so that you can leave your bags in a safe pla
 
 The opening ceremony will be at the [Vertex](https://goo.gl/maps/vu1vfey5v8u) building at 7:00 PM. Doors will open at 6:45 PM.
 
-Keep in mind that the auditorium has limited seating. For the ones that can not make it and also for the Online participants, we will **stream the opening ceremony**, and also the closing, on our [Twitch channel](https://www.twitch.tv/hackersupc).
+Keep in mind that the auditorium has limited seating. For the ones that can not make it and also for the Online participants, we will **stream the opening ceremony**, and also the closing, on our [Youtube channel](https://www.youtube.com/c/HackersUPC).
 
 ---
 
