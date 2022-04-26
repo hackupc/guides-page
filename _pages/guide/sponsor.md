@@ -76,7 +76,7 @@ When the event approaches we will send you an invitation link, so you can join t
 
 ### Will there be food and drinks?
 
-We will be providing all meals, snacks and drinks, and you are allowed to eat and drink anything at the event! If you want to bring your own food fee free, however we provide all kind of diet options.
+We will be providing all meals, snacks and drinks, and you are allowed to eat and drink anything at the event except alcoholic beverages! If you want to bring your own food fee free, however we provide all kind of diet options.
 
 ---
 
