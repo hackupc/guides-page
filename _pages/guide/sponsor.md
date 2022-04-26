@@ -31,13 +31,7 @@ You can bring whatever you want to the event while it fits in your stand. Hereâ€
 - Laptops
 - Corporative shirts
 - Merchandising (also known as swag) for participants
-- A lot of energy!
-- Remeber also that this year we ask for covid certificate, a valid certificate can match the following options:
-    1. 1 vaccine + passing the covid
-    2. 2 vaccines
-    3. 3 vaccines
-    4. Negative PCR
-  
+- A lot of energy!  
 ---
 
 ## :wave: Check in
