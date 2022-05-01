@@ -6,7 +6,6 @@ description: The extensive guide to make your experience at HackUPC amazing!
 
 Hi, hacker! We’re very excited to share this amazing weekend with you.
 This guide will help you get ready so that you don’t miss anything and can enjoy it to the fullest. 
-Pay attention, as we have included all the important information that you need to know.
 
 ---
 
@@ -132,7 +131,7 @@ During all the weekend we have mentors available for you! If you have any tech-r
 
 ## :trophy: Project Submissions
 
-Please submit your projects on our [Devpost](https://hackupc2022.devpost.com) by Sunday 1st at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and edit your submission later!
+Please submit your projects on our [Devpost](https://hackupc-2022.devpost.com) by Sunday 1st at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and edit your submission later!
 
 Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
 
