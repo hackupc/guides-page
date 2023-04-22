@@ -23,4 +23,4 @@ That being said, the teams will be judged on the following three criteria, all o
 
 We also have some auxiliary criteria, which will be explained during the briefing.
 
-These criteria should guide you in making the best decisions, but ultimately you are free to trust your gut feeling.
+These criteria should serve as a guide to aid you in making the best decisions, but ultimately you are free to trust your gut feeling.
