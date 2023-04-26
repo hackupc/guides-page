@@ -31,14 +31,16 @@ You can bring whatever you want to the event while it fits in your stand. Hereâ€
 - Laptops
 - Corporative shirts
 - Merchandising (also known as swag) for participants
+- Fun games or ways to interact with hackers
 - A lot of energy!  
+ 
 ---
 
 ## :wave: Check in
 
 > A5 building from Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona
 
-You can go directly to the sponsor check-in, it is located at the same place as hackers, you can check the concrete location in our [live page](https://live.hackupc.com/maps). Please let us know when you arrive to the event so we can help you to set-up everything! You can talk to an organizer (fucsia t-shirts) at any time to ask fo help!
+When you get to the check-in area, which is located at the same place as the Hacker entrance (you can check the location in our [live page](https://live.hackupc.com/maps)), talk to an organizer and they will redirect you to a sponsorship team member who will help you with everything. Please let us know when you arrive to the event so we can help you set everything up! Even if it's not a sponsorship team member, you can talk to an organizer at any time to ask for help!
 
 ---
 
@@ -58,7 +60,7 @@ You can go directly to the sponsor check-in, it is located at the same place as 
 
 ### When to arrive?
 
-If you have a stand for the event, we recommend you arrive between 14:00 and 16:00 to set up your stand on your location, the hackers will start arriving at 17:00 since the checkin for them starts at that moment. We recommend you to stay at least from when you arrive until hacking begins at noon.
+If you have a stand for the event, we recommend you arrive between 13:00 and 15:00 to set up your stand on your location, the hackers will start arriving at 16:00 since the checkin for them starts at that moment. We recommend you to stay at least from when you arrive until hacking begins at noon.
 
 ### What do you do with swag?
 
@@ -66,11 +68,11 @@ Participants love company swag! If you have a table, feel free to bring it for y
 
 ### How can I join Slack?
 
-When the event approaches we will send you an invitation link, so you can join the slack and start talking with the hackers! Please set a profile picture, once that is done our bot `BieneBot` will send you a picture with a filter of your company, that will help hackers to reach you if they want to talk with you.
+When the event approaches we will send you an invitation link, so you can join the slack and start talking with the hackers! Once you enter the workspace, please set a profile picture so that Hackers recognize you. Your company will have its own channel ( **#company-name** ) where you can interact with hackers, but don't hesitate to show up in other general channels, if you want!
 
 ### Will there be food and drinks?
 
-We will be providing all meals, snacks and drinks, and you are allowed to eat and drink anything at the event except alcoholic beverages! If you want to bring your own food fee free, however we provide all kind of diet options.
+We will be providing all meals, snacks and drinks, and you are allowed to eat and drink anything at the event except alcoholic beverages! Feel free to bring your own food if you want, although we provide all kind of diet options so we have got you covered.
 
 ---
 
