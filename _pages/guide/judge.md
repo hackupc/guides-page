@@ -36,7 +36,7 @@ HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord. The
 
 - Our website: [hackupc.com](https://hackupc.com/)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Devpost: [hackupc2023.devpost.com](https://hackupc2023.devpost.com)
+- Devpost: [hackupc-2023.devpost.com](https://hackupc-2023.devpost.com)
 
 ---
 
