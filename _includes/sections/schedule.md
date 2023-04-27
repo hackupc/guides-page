@@ -1,38 +1,40 @@
-Coming soon you will have available our [live page](https://live.hackupc.com/), and there you’ll find the most recently updated schedule. Remember that all the times are UTC+2 (Barcelona time)
+Coming soon you will have available our [live page](https://live.hackupc.com/), where you’ll find the most recently updated schedule. Remember that all the times are UTC+2 (Barcelona local time)
 
 Some important times to be aware of:
 
-**April 29th, Friday**
+**May 12th, Friday**
 
-- 05:00 PM - 06:45 PM - Check in
-- 07:00 PM - 09:00 PM - Opening Ceremony
+- 04:00 PM - 06:45 PM - Check in :wave:
+- 07:00 PM - 08:30 PM - Opening Ceremony
+- 08:30 PM - 11:00 PM - Dinner
 - 09:00 PM - Hackathon starts!
-- 09:00 PM - 11:00 PM - Dinner
-- 10:00 PM - 11:00 PM - Team Building
-- 10:30 PM - 11:59 PM - Talks
+- 09:30 PM - 10:30 PM - Team Building
+- 10:30 PM - 11:59 PM - Talks and workshops
 
-**April 30th, Saturday**
+**May 13th, Saturday**
 
-- 12:00 AM - 12:30 AM - Talks
 - 01:30 AM - 02:30 AM - Midnight snack
-- 08:00 AM - 09:00 AM - Breakfast
-- 09:15 AM - 11:00 AM - Showers available
+- 09:00 AM - 10:00 AM - Breakfast
+- 09:30 AM - 11:30 AM - Showers available
+- 10:00 AM - 11:30 AM - Workshops
+- 11:30 AM - 12:30 PM - Cup Stacking
 - 01:00 PM - 02:30 PM - Lunch
+- 04:00 PM - 05:00 PM - Dodgeball
 - 05:00 PM - 07:00 PM - Showers available
-- 06:00 PM - 06:30 PM - Krunker (_Online activity_)
-- 07:00 PM - 08:30 PM - Lego (_In person activity_)
+- 07:00 PM - 08:00 PM - Lego 
 - 08:00 PM - 09:30 PM - Dinner
 - 10:00 PM - 11:00 PM - SlideShare Show
 
-**May 1st, Sunday**
+**May 14th, Sunday**
 
-- 12:00 AM - 01:00 AM - StickerXchange (_In person activity_)
+- 12:00 AM - 12:30 AM - StickerXchange 
+- 00:30 AM - 03:00 AM - NerfGun Battle 
 - 01:00 AM - 02:00 AM - Midnight snack
-- 01:00 AM - 03:00 AM - NerfGun Battle (_In person activity_)
-- 08:00 AM - 09:00 AM - Breakfast
 - 08:00 AM - 09:15 AM - Hack Submissions
+- 09:00 AM - 10:00 AM - Breakfast
 - 09:00 AM - Hack Ends
+- 09:00 AM - 11:00 AM - Showers available
 - 10:15 AM - 01:15 PM - Hack Demos
 - 01:00 PM - 02:00 PM - Lunch
-- 02:30 PM - 04:30 PM  - Closing ceremony
-- 04:30 PM - See you soon hackers :wave:
+- 03:00 PM - 05:00 PM - Closing ceremony
+- 05:00 PM - See you soon hackers :wave:
