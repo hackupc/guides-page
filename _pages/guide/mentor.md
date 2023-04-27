@@ -16,8 +16,6 @@ During the event, we expect mentors to:
 
 - **Act as helpers**, moving from group to group and helping hackers with any questions or roadblocks they have. However, keep in mind that mentors can’t submit a project nor contribute in a team’s project in such a way that a project is mainly their work. Their task is to guide and help teams to carry on their own projects.
 
-- Help hackers **building their team** at the team building event, which takes place at the beginning of the hackathon.
-
 - **Be present** most of the time. The hackathon starts at 9.00 P.M on Friday and ends
   at 9.00 A.M. on Sunday. It is not necessary to attend the whole event, but we
   encourage everyone to be highly available.
