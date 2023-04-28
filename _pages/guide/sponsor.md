@@ -29,7 +29,7 @@ HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord.
 You can bring whatever you want to the event while it fits in your stand. Here’s a few examples:
 
 - Laptops
-- Corporative shirts
+- Corporate shirts
 - Merchandising (also known as swag) for participants
 - Fun games or ways to interact with hackers
 - A lot of energy!  
