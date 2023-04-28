@@ -62,6 +62,8 @@ When you get to the check-in area, which is located at the same place as the Hac
 
 If you have a stand for the event, we recommend you arrive between 13:00 and 15:00 to set up your stand on your location, the hackers will start arriving at 16:00 since the checkin for them starts at that moment. We recommend you to stay at least from when you arrive until hacking begins at noon.
 
+If the person from your company will arrive just in time for the opening ceremony, they should directly go to the [Auditori Vertex](https://goo.gl/maps/vu1vfey5v8u) at 18:30.
+
 ### What do you do with swag?
 
 Participants love company swag! If you have a table, feel free to bring it for your table.
