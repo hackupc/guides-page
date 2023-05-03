@@ -29,29 +29,8 @@ We will give out a water bottle, sleeping mask and ear plugs, so you don’t nee
 
 HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona). The entrance will be marked with signs so it will be easy for you to find it. 
 
-### :world_map: Directions
-
-#### :airplane: Directly from the airport
-Take the L9 line of the metro until the last stop, ```Zona Universitària```. From there, it’s a 5-10min walk until the university. The fare for a single ticket from the airport is €5.15.
-Another option is taking the train from the station in ```terminal T2 until Sants Estació```, then taking the ```L3 line of the metro until Palau Reial```. This combination will cost you 4.40€, but requires a transfer and takes more time.
-
 ---
 
-#### :train: By train
-If you come by train, you should take the metro line ```L3 in the direction of Zona Universitaria``` until ```Palau Reial``` station, and then, from there you need to walk up to Campus Nord - UPC, placed on the top of Facultad d'economia de la UB. 
-Another option is taking the ```tram (all the lines are valid)```, until the station of ```Palau Reial```.
-
----
-
-#### :bus: By bus
-If you are coming by bus you can take one of the following lines ```67```, ```75```, ```113``` or ```H6``` until the ```Palau Reial``` stop, from there you need to walk up to Campus Nord - UPC, placed on the top of Facultad d'economia de la UB. You can also use the ```33``` bus line, which will leave you on right in front of the Campus Nord.
-
----
-
-#### :oncoming_automobile: By car
-If you come by car, you can find a place to park in the top of the campus, you can check in the streets: ```Sor Eulalia d'Anzizu``` or ```Cavallers```.
-
----
 ---
 
 # During the event
@@ -63,12 +42,11 @@ These are some important channels that we have:
 
 - **#announcements:** Everything about the event itself will be in this channel: food being served, talks & workshops starting, activities such as the nerf gun battles, and other important stuff.
 - **#general:** Talk about HackUPC and get to know fellow hackers.
-- **#issues:** Something happening in your room? Wi-Fi not working? If you see something wrong during the event, tell us through this channel, and we’ll try to solve it as fast as possible.
-- **#help:** Do you have any question? During the event this channel and the BieneBot will be available with to help you with every question you may have!
+- **#help:** Something happening in your room? Wi-Fi not working? Do you have any question? Tell us through this channel, and we’ll try to solve it as fast as possible.
 - **#mentors:** If you’re stuck in your project, ask for help here and a mentor will come help you.
 - **#explore-bcn:** If you’re coming a few days before, or staying after the event to visit Barcelona, this is the channel where you can ask the locals for suggestions about what to visit or where to eat.
 - **#hackathon-organizers:** Are you a hackathon organizer, or interested in starting one in your college? Meet people like you here!
-- **hotel_hosting:** Get recommendations on places to stay in Barcelona. Maybe a local hacker can offer you a bed!
+- **#accomodation:** Get recommendations on places to stay in Barcelona. Maybe a local hacker can offer you a bed!
 - **#team-building:** You still don’t have a team? Have an idea? Share your thoughts here and meet people to form a team.
 - **#random:** BIENE.
 
@@ -82,7 +60,6 @@ These are some important channels that we have:
 
 ## :wave: Check in
 
-### :woman::man: In person
 Check-in will be open from 4:00 PM to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! In the check in we will check the rest of the information and we will give you, among other things, **a bracelet that you will have to wear at all times.**
 
 If you arrive later, go to the info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! 
@@ -103,7 +80,7 @@ Keep in mind that the auditorium has limited seating. For the ones that can not 
 ## :handshake: Teams
 
 - Team sizes are limited to a maximum of 4 people each.
-- Join the `#teambuilding` channel on our Slack to meet other hackers and potential team members before the event.
+- Join the `#team-building` channel on our Slack to meet other hackers and potential team members before the event.
 - We will also have a **Team Building** event after dinner on Friday at 9:30PM!
 
 ---
@@ -168,7 +145,7 @@ If you're looking for a moment to relax and get away from any difficulties in yo
 ## :zzz: Sleeping rooms
 
 We will have sleeping rooms available for those hackers who may need a rest at night. They will be open from 12:00 PM to 8:00 AM (both on Friday and on Saturday) and we will have air mattresses so that you don’t have to sleep on the floor. Although we provide sleeping masks and ear plugs, please be respectful of other people’s rest when you enter or exit the rooms.
-You will find the sleeping rooms in the A4 building. You can check the maps in our [live page](https://live.hackupc.com/).
+You will find the sleeping rooms in the A3 building. You can check the maps in our [live page](https://live.hackupc.com/).
 
 ---
 
@@ -176,7 +153,7 @@ You will find the sleeping rooms in the A4 building. You can check the maps in o
 
 Don't forget to take a shower! We will provide various time slots on Saturday and Sunday where you will be able to shower.
 
-Showers will be available from 9:30AM to 11:30AM on Saturday and Sunday, and from 5:00PM to 7:00PM only on Saturday. Please bring your towel and toiletry, as we will not provide it. Although they are gender separated, the showers are shared with other people, so you can bring a swimming suit if you feel uncomfortable.
+Showers will be available from 9:30AM to 11:30AM and from 5:00PM to 7:00PM on Saturday. From 9:00AM to 11:00AM on Sunday. Please bring your towel and toiletry, as we will not provide it. Although they are gender separated, the showers are shared with other people, so you can bring a swimming suit if you feel uncomfortable.
 
 Location: [Poliesportiu](https://g.page/EsportsUPC?share)
 
@@ -184,41 +161,9 @@ Location: [Poliesportiu](https://g.page/EsportsUPC?share)
 
 ## :woman_technologist: Hacking rooms
 
-Except for the cafeteria in A5106 and the mentor lobby at A5105, all the rooms in the 1st and 2nd floors of the buildings A5 and A6, as well as A4's first floor are open for you to hack in there!
+Except for the cafeteria in A5106 and the mentor lobby at A5105, all the rooms in the 1st and 2nd floors of the buildings A5 and A6, as well as A4's second floor are open for you to hack in there!
 
 Spain uses the two-pin continental plugs, types C and F and operates on a 230V supply voltage and 50Hz. Please bring an adapter if needed.
-
----
-
-## :wrench: Hardware
-
-We will have some sweet hardware for you to hack on:
-
-``List coming soon, stay tuned``
-
-<!--
-- 3D printing material
-- Anycubic i3 mega
-- Arduino kit
-- ASUS Zenwatch 2
-- Google Home Mini
-- Grove starter kit plus
-- Grove starter kit plus gen2
-- Intel edison
-- Leap motion
-- Merge VR
-- Mi band 2
-- Mini-drone Parrot Rolling Spider
-- Muse headband
-- Myo arm
-- Oculus rift
-- Raspberry kit
-- Raspberry modules
-- Soldering kit
-- Amazon echo dot
--->
-
-If you want some, you will have to reserve it once the hacking time starts! You can reserve it by coming to our Info Desk and pick it up also there.
 
 ---
 
