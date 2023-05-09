@@ -29,6 +29,60 @@ We will give out a water bottle, sleeping mask and ear plugs, so you don’t nee
 
 HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona). The entrance will be marked with signs so it will be easy for you to find it. 
 
+### :world_map: Directions
+
+#### :airplane: By plane
+
+##### Arriving
+
+Take the metro L9 in either **Aeroport T2** or **Aeroport T1** towards **Zona Universitària**. Go to the last station **Zona Universitària**. Our venue is a 10 minute walk from there. To get to our check-in point please check out our [map](https://live.hackupc.com/map/campus).
+
+Don't get a T-10 ticket if you are in the airport, you won't be able to use it from there. Buy a single trip ticket from the airport instead. If you really want to use a T-Casual, then you can take the train (R2 to Sant Celoni or Maçanet-Massanes) from Terminal 2B (a free shuttle bus from Terminal 1 to Terminal 2B departs every 5 minutes), but the train only runs every 30 minutes. You will have to get down at **Sants Estació** (3rd stop) and take the metro as explained below.
+
+##### Leaving
+
+Take the metro L9 in **Zona Universitària** towards **Aeroport T1**. Stop at either **Aeroport T1** or **Aeroport T2** depending on the terminal your plane is departing from.
+
+This itinerary is completely accessible.
+
+---
+
+#### :train: By train
+
+##### Arriving
+
+If you take the train, you will probably arrive at **Sants Estació**. From there you need to take the metro L3, it is located on the north side of the station, follow the signs for the green line (L3), not the blue one (L5). When you reach the station, go towards **Zona Universitària** (to the right if coming from underground). Get off at **Palau Reial**, from there you should see some signs pointing where HackUPC is, otherwise you can check out our [map](https://live.hackupc.com/map/campus).
+
+##### Leaving
+
+Take the metro L3 in **Palau Reial** towards **Trinitat Nova** and get off at **Sants Estació**. When exiting, the easiest way is to turn left and follow the signs towards the railway station, you can follow the plane sign or the letter R with the orange background.
+
+This itinerary is completely accessible. To enter the metro, you will have to reach the elevator on the street at Sants Estació.
+
+---
+
+#### :bus: By bus
+
+##### Arriving
+
+If you are coming by bus you can take one of the following lines ****67****, **75**, **113** or **H6** until the **Palau Reial** stop, from there you need to walk up to Campus Nord - UPC, placed on the top of Facultad d'economia de la UB. You can also use the **33** bus line, which will leave you on right in front of the Campus Nord.
+
+##### Leaving
+
+In front of the Campus Nord you have a stop for bus line **********33**********. Otherwise, if you need any of the other lines ******67******, ****75****, ****113****, or ****H6**** you will have to go down to Diagonal and look for the stop for the line you need.
+
+---
+
+#### :car: By car
+
+##### Arriving
+
+If you come by car, you can find a place to park in the top of the campus, you can check in the streets: **Sor Eulàlia d’Anzizu** or **Cavallers**.
+
+##### Leaving
+
+Google Maps will know for sure your way back home. Just remember where you parked your car.
+
 ---
 
 ---
