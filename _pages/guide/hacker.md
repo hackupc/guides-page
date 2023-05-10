@@ -18,8 +18,9 @@ This guide will help you get ready so that you don’t miss anything and can enj
 - **Laptop, Phone, Chargers, and Other Devices** - Don't forget to bring your chargers and extra batteries for any device you'll be using.
 - **Headphones** - If you need to focus it will be easier with them.
 - **Comfortable clothes** - We will provide you a T-shirt but for sure you will need more clothes.
-- **Towel and toiletry** - We will have showers available and encourage you to use them!
-- **Sleeping bag** - If you’re sensitive to cold and plan to sleep, it may be a good option.
+- **Towel, toiletry (shampoo, gel, toothbrush, toothpaste) and flip-flops** - We will have showers available and we really encourage you to use them!!
+- **Sleeping bag** - If you’re sensitive to cold and plan to sleep, it may be a good option. During the day is warm but at night might be colder.
+- **Pillow** - Maybe a pillow also will help you to have a good rest.
 
 We will give out a water bottle, sleeping mask and ear plugs, so you don’t need to bring them with you.
 
@@ -106,17 +107,17 @@ Please read [HackUPC’s code of conduct](https://legal.hackersatupc.org/hackupc
 
 During all the weekend we have mentors available for you! If you have any tech-related question or issue, you can contact our mentors through the `#mentors` channel on Slack. Also you can find them around the venue, they will be wearing a white T-Shirt!
 
-This year we have our new **Mentor Lobby**, located in classroom A5105. If you don't find mentors in the hacking rooms, you can go to the Mentor Lobby to try your luck!
+This year we have our new **Mentor Lobby**, located in classroom A5105. If you don't find mentors in the hacking rooms, you can go to the Mentor Lobby to try your luck! Don't get stuck in your project and use them to fix the problems fasters so you can finish your project in time.
 
 ---
 
 ## :trophy: Project Submissions
 
-Please submit your projects on our [Devpost](https://hackupc-2023.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and edit your submission later!
+Please submit your projects on our [Devpost](https://hackupc-2023.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
 
-Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. You should still demo your project even if you’re not finished, as our main criteria don’t include finishing it.
+Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. We encourage you to demo even if your project it's not finished, as our main criteria don’t include finishing it, and you will gain experience in demo your own project ideas.
 
-If you have taken part in a sponsor challenge, you will have to do 2 expos: one in the Sponsor's judging room and one at a HackUPC judging room. At HackUPC's judging rooms, it is mandatory to do a code demo, powerpoint presentations and videos are not allowed and your evaluation will be severely undermined by doing a power point presentation.
+If you have taken part in a sponsor challenge, you will have to do 2 expos: one in the Sponsor's judging room and one at a HackUPC judging room. At HackUPC's judging rooms, it is mandatory to do a code demo, powerpoint presentations and videos are not allowed and your evaluation will be severely undermined by doing a PowerPoint presentation.
 
 ---
 
@@ -150,6 +151,8 @@ If you're looking for a moment to relax and get away from any difficulties in yo
 
 We will have sleeping rooms available for those hackers who may need a rest at night. They will be open from 12:00 PM to 8:00 AM (both on Friday and on Saturday) and we will have air mattresses so that you don’t have to sleep on the floor. Although we provide sleeping masks and ear plugs, please be respectful of other people’s rest when you enter or exit the rooms.
 You will find the sleeping rooms in the A3 building. You can check the maps in our [live page](https://live.hackupc.com/).
+
+**Reminder: It's forbidden to take the mattress outside of the sleeping area building!**
 
 ---
 
