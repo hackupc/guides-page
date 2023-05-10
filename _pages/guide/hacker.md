@@ -20,7 +20,7 @@ This guide will help you get ready so that you don’t miss anything and can enj
 - **Comfortable clothes** - We will provide you a T-shirt but for sure you will need more clothes.
 - **Towel, toiletry (shampoo, gel, toothbrush, toothpaste) and flip-flops** - We will have showers available and we really encourage you to use them!!
 - **Sleeping bag** - If you’re sensitive to cold and plan to sleep, it may be a good option. During the day is warm but at night might be colder.
-- **Pillow** - Maybe a pillow also will help you to have a good nap.
+- **Pillow** - Maybe a pillow also will help you to have a good rest.
 
 We will give out a water bottle, sleeping mask and ear plugs, so you don’t need to bring them with you.
 
@@ -113,7 +113,7 @@ This year we have our new **Mentor Lobby**, located in classroom A5105. If you d
 
 ## :trophy: Project Submissions
 
-Please submit your projects on our [Devpost](https://hackupc-2023.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and edit your submission later, but only until 9:00AM!
+Please submit your projects on our [Devpost](https://hackupc-2023.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
 
 Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. We encourage you to demo even if your project it's not finished, as our main criteria don’t include finishing it, and you will gain experience in demo your own project ideas.
 
