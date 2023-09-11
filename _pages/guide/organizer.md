@@ -19,7 +19,7 @@ description: Guide to a HackUPC organizer
 
 ## Departamentos
 
-HackUPC està estructurada por departamentos, cada departamento tiene un rol importante en el desarrollo del evento, formar parte de un departamento no implica hacer solo trabajo relacionado con ello.
+HackUPC está estructurada por departamentos, cada departamento tiene un rol importante en el desarrollo del evento, formar parte de un departamento no implica hacer solo trabajo relacionado con ello.
 
 ### Logistics
 
@@ -67,7 +67,7 @@ HackUPC està estructurada por departamentos, cada departamento tiene un rol imp
 
 ---
 
-## La asociación detràs de HackUPC: Hackers@UPC
+## La asociación detrás de HackUPC: Hackers@UPC
 
 
 ### Links de interés
