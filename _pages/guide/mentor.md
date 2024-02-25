@@ -14,7 +14,7 @@ Mentors are experienced volunteers who want to share their knowledge with new ha
 
 During the event, we expect mentors to:
 
-- **Act as helpers**, moving from group to group and helping hackers with any questions or roadblocks they have. However, keep in mind that mentors can’t submit a project nor contribute in a team’s project in such a way that a project is mainly their work. Their task is to guide and help teams to carry on their own projects.
+- **Act as helpers**, moving from group to group and helping hackers with any questions or roadblocks they have. However, keep in mind that mentors can’t submit a project nor contribute in a team’s project in a way that a project becomes mainly their work. Their task is to guide and help teams to carry on their own projects instead of actively contributing to the code.
 
 - **Be present** most of the time. The hackathon starts at 9.00 P.M on Friday and ends
   at 9.00 A.M. on Sunday. It is not necessary to attend the whole event, but we
@@ -22,6 +22,10 @@ During the event, we expect mentors to:
 
 - **Check out help requests** through our communication channels:
   - Messages from the #mentors Slack channel
+
+- **Follow the organisers rules**, at the end, they know the timing on the event and what is the best help in each moment.
+
+- **Follow [HackUPC Rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions)**, HackUPC it's only possible if we respect its rules, the event is prepared for the people we intive, even you! And it is only possible to make it out if we all contribute to it.
 
 You will receive all the details with respect to these tasks once you get to the hackathon.
 
@@ -44,7 +48,7 @@ We want you to live a great hackathon experience. As a mentor, you will be able 
 
 - Have full meals from Friday dinner to Sunday lunch, including all kind of snacks and drinks.
 
-- Access to sleeping rooms with air mattresses and showers.
+- Access to showers and common sleeping rooms with air mattresses.
 
 - Get exclusive swag throughout the event: t-shirts, bags, stickers, sponsor merchandising...
 
@@ -62,11 +66,12 @@ We want you to live a great hackathon experience. As a mentor, you will be able 
 - Laptop Charger
 - Comfortable Clothes
 - Government ID
+
 ---
 
 ### Check in
 
-You will see check in when you arrive. Please provide your name to the check in table. You will be provided with a mentor t-shirt and a bracelet to enter and leave the venue on your own. Please **do not** cut it nor take it off during the event. In case it is too tight, please let us know and we will help you out at InfoDesk.
+You will see the check in when you arrive. Please provide your name at the check in table. You will be provided with a mentor t-shirt and a bracelet to enter and leave the venue on your own. Please **do not** cut it nor take it off during the event. In case it is too tight, please let us know and we will help you out at InfoDesk.
 
 ## Preliminary schedule
 
