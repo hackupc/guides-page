@@ -2,7 +2,7 @@ Coming soon you will have available our [live page](https://live.hackupc.com/), 
 
 Some important times to be aware of:
 
-**May 12th, Friday**
+**May 3rd, Friday**
 
 - 04:00 PM - 06:45 PM - Check in :wave:
 - 07:00 PM - 08:30 PM - Opening Ceremony
@@ -11,7 +11,7 @@ Some important times to be aware of:
 - 09:30 PM - 10:30 PM - Team Building
 - 10:30 PM - 11:59 PM - Talks and workshops
 
-**May 13th, Saturday**
+**May 4th, Saturday**
 
 - 01:30 AM - 02:30 AM - Midnight snack
 - 09:00 AM - 10:00 AM - Breakfast
@@ -25,7 +25,7 @@ Some important times to be aware of:
 - 08:00 PM - 09:30 PM - Dinner
 - 10:00 PM - 11:00 PM - SlideShare Show
 
-**May 14th, Sunday**
+**May 5th, Sunday**
 
 - 12:00 AM - 12:30 AM - StickerXchange 
 - 00:30 AM - 03:00 AM - NerfGun Battle 
