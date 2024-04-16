@@ -42,11 +42,6 @@ You can bring whatever you want to the event while it fits in your stand. Hereâ€
 
 When you get to the check-in area, which is located at the same place as the Hacker entrance (you can check the location in our [live page](https://live.hackupc.com/maps)), talk to an organizer and they will redirect you to a sponsorship team member who will help you with everything. Please let us know when you arrive to the event so we can help you set everything up! Even if it's not a sponsorship team member, you can talk to an organizer at any time to ask for help!
 
----
-
-## :alarm_clock: Preliminary Schedule
-
-{% include sections/schedule.md %}
 
 ---
 
