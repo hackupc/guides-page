@@ -10,6 +10,7 @@ Some important times to be aware of:
 - 09:00 PM - Hackathon starts!
 - 09:30 PM - 10:30 PM - Team Building
 - 10:30 PM - 11:59 PM - Talks and workshops
+- 11:00 PM - Take a picture at the Photocall
 
 **May 4th, Saturday**
 
@@ -37,6 +38,6 @@ Some important times to be aware of:
 - 09:00 AM - 10:00 AM - Breakfast
 - 09:00 AM - 11:00 AM - Showers available
 - 10:15 AM - 01:15 PM - Hack Demos
-- 01:00 PM - 02:00 PM - Lunch
+- 01:00 PM - 02:30 PM - Lunch
 - 03:00 PM - 05:00 PM - Closing ceremony
 - 05:00 PM - See you soon hackers :wave:
