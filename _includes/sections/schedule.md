@@ -16,6 +16,7 @@ Some important times to be aware of:
 
 - 00:00 AM - 00:30 PM - Talks and workshops
 - 01:30 AM - 02:30 AM - Midnight snack
+- 03:14 AM - TheGame starts!
 - 09:00 AM - 10:00 AM - Breakfast
 - 09:30 AM - 11:30 AM - Showers available
 - 10:00 AM - 12:00 AM - Workshops
@@ -31,7 +32,8 @@ Some important times to be aware of:
 **May 5th, Sunday**
 
 - 00:00 AM - 00:30 AM - StickerXchange 
-- 00:30 AM - 03:00 AM - NerfGun Battle 
+- 00:30 AM - 03:00 AM - NerfGun Battle
+- 03:14 AM - TheGame ends
 - 01:00 AM - 02:30 AM - Midnight snack
 - 08:00 AM - 09:15 AM - Hack Submissions
 - 09:00 AM - Hack Ends
