@@ -10,7 +10,7 @@ First of all, in the name of the HackUPC team, we’d like to thank you all for 
 
 ## :stopwatch: When to arrive
 
-Judges are expected to arrive at 09:00 AM on Sunday. Upon arrival look for an organizer (Red T-Shirt). They will give you directions on where the judging meeting will be.
+Judges are expected to arrive at 09:00 AM on Sunday. Upon arrival, look for an organizer (Red T-Shirt). They will give you directions on where the judging meeting will be.
 
 As a judge, you will be briefed at 09:30 AM as a group on how the expo will work and how to evaluate the projects.
 
@@ -36,7 +36,7 @@ HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord. The
 
 - Our website: [hackupc.com](https://hackupc.com/)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Devpost: [hackupc-2023.devpost.com](https://hackupc-2023.devpost.com)
+- Devpost: [hackupc-2024.devpost.com](https://hackupc-2024.devpost.com)
 
 ---
 

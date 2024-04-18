@@ -6,18 +6,17 @@ That being said, the teams will be judged on the following three criteria, all o
 
 - How technically impressive was the hack?
 - Was the technical problem that the team tackled difficult?
-- Did it use a particularly clever technique or did it use many different components?
+- Did it use a particularly clever technique or did it use a standard one?
 - Did the technology involved make you go "Wow"?
 
 ### :bulb: Idea & Innovation
 
 - How good is the idea?
-- Does it go beyond a website that already exists?
-- Is it creative?
+- Is it something new? Is it a concept that it's already on the market and does not add anything innovative?
 
 ### :books: Learning
 
-- Did the team stretch themselves?
+- Did the team push themselves beyond their usual limits?
 - Did they try to learn something new?
 - What kind of projects have they worked on before? If a team that always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded.
 
