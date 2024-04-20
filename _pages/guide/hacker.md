@@ -14,25 +14,27 @@ This guide will help you get ready so that you don’t miss anything and can enj
 ## :briefcase: What to Bring
 
 - **Valid ID** - Make sure to bring your government-issued or student ID. We will need this in order to check you in. You will also need this if you'd like to check out hardware.
-- **QR Invitation code** - This is the QR we sent you when you've confirmed the participation.
+- **QR Invitation code** - This is the QR we sent you when you've confirmed the participation. You can also find it at [MyHackUPC](https://my.hackupc.com/).
 - **Laptop, Phone, Chargers, and Other Devices** - Don't forget to bring your chargers and extra batteries for any device you'll be using.
 - **Headphones** - If you need to focus it will be easier with them.
-- **Comfortable clothes** - We will provide you a T-shirt but for sure you will need more clothes.
+- **Comfortable clothes** - We will provide you with a T-shirt but you will surely need more clothes.
 - **Towel, toiletry (shampoo, gel, toothbrush, toothpaste) and flip-flops** - We will have showers available and we really encourage you to use them!!
-- **Sleeping bag** - If you’re sensitive to cold and plan to sleep, it may be a good option. During the day is warm but at night might be colder.
-- **Pillow** - Maybe a pillow also will help you to have a good rest.
+- **Sleeping bag** - If you’re sensitive to cold and plan to sleep, it may be a good option. During the day it's warm but at night it gets colder.
+- **Pillow** - A pillow might also help you to have a good rest.
 
-We will give out a water bottle, sleeping mask and ear plugs, so you don’t need to bring them with you.
+We will give out a water cup, sleeping mask and ear plugs, so you don’t need to bring them with you.
 
 ## :round_pushpin: Location
 
 ```Edifici A5 del Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona```
 
+[:round_pushpin: Google Maps location](https://maps.app.goo.gl/AKazP14LMy7LZoZq8)
+
 HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona). The entrance will be marked with signs so it will be easy for you to find it. 
 
 ### :world_map: Directions
 
-You can check how to arrive at [live](https://live.hackupc.com/)
+You can check how to arrive at our [live](https://live.hackupc.com/) page.
 
 ---
 
@@ -65,7 +67,7 @@ These are some important channels that we have:
 
 ## :wave: Check in
 
-Check-in will be open from 4:00 PM to 6:45 PM. While in the queue, please have prepared your ID or the QR we sent you in the mail, as it will help us go quicker! In the check in we will check the rest of the information and we will give you, among other things, **a bracelet that you will have to wear at all times.**
+Check-in will be open from 4:00 PM to 6:45 PM. While in the queue, please have your ID prepared or the QR we sent you in the mail, as it will help us go quicker! In the check in we will check the rest of the information and we will give you, among other things, **a bracelet that you will have to wear at all times.**
 
 If you arrive later, go to the info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! 
 
@@ -105,9 +107,9 @@ Please read [HackUPC’s code of conduct](https://legal.hackersatupc.org/hackupc
 
 ## :sos: Need help? Mentors!
 
-During all the weekend we have mentors available for you! If you have any tech-related question or issue, you can contact our mentors through the `#mentors` channel on Slack. Also you can find them around the venue, they will be wearing a white T-Shirt!
+During all the weekend we have mentors available for you! If you have any tech-related question or issue, you can contact our mentors through the `#mentors` channel on Slack. Also you can find them around the venue, they will be wearing a T-Shirt with "MENTOR" on their back!
 
-This year we have our new **Mentor Lobby**, located in classroom A5105. If you don't find mentors in the hacking rooms, you can go to the Mentor Lobby to try your luck! Don't get stuck in your project and use them to fix the problems fasters so you can finish your project in time.
+We also have a **Mentor Lobby**, located in classroom A5105. If you don't find mentors in the hacking rooms, you can go to the Mentor Lobby to try your luck! Don't get stuck in your project and use them to fix the problems fasters so you can finish your project in time.
 
 ---
 
@@ -115,7 +117,7 @@ This year we have our new **Mentor Lobby**, located in classroom A5105. If you d
 
 Please submit your projects on our [Devpost](https://hackupc-2023.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
 
-Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. We encourage you to demo even if your project it's not finished, as our main criteria don’t include finishing it, and you will gain experience in demo your own project ideas.
+Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. We encourage you to demo even if your project it's not finished, as our main criteria don’t include finishing it, and you will gain experience in demoing your own project ideas.
 
 If you have taken part in a sponsor challenge, you will have to do 2 expos: one in the Sponsor's judging room and one at a HackUPC judging room. At HackUPC's judging rooms, it is mandatory to do a code demo, powerpoint presentations and videos are not allowed and your evaluation will be severely undermined by doing a PowerPoint presentation.
 
@@ -123,9 +125,9 @@ If you have taken part in a sponsor challenge, you will have to do 2 expos: one 
 
 ## :woman_office_worker: Sponsor challenges
 
-Remember to opt in the challenges when submitting your project! (By submitting, you automatically opt to the HackUPC prize.) All the challenges will be presented in the opening ceremony as well as the prizes.
+Remember to opt in the challenges when submitting your project! (By submitting and presenting to HackUPC judges, you automatically opt to the HackUPC prize.) All the challenges will be presented in the opening ceremony as well as the prizes.
 
-Check them during HackUPC in our live page: [live.hackupc.com](https://live.hackupc.com/)
+Check them during HackUPC in our live page: [live.hackupc.com](https://live.hackupc.com/challenges).
 
 ---
 
@@ -133,7 +135,7 @@ Check them during HackUPC in our live page: [live.hackupc.com](https://live.hack
 
 On Friday night and Saturday morning, you will have the opportunity to attend several workshops given by our sponsors. 
 
-Check them in our [live page](https://live.hackupc.com/) to know the full list of topics! We will also announce them on Slack as they start.
+Check them in our [live page](https://live.hackupc.com/talks) to know the full list of topics! We will also announce them on Slack as soon as they start.
 
 {% include sections/workshops.md %}
 
@@ -141,7 +143,7 @@ Check them in our [live page](https://live.hackupc.com/) to know the full list o
 
 ## :man_juggling: Activities
 
-If you're looking for a moment to relax and get away from any difficulties in your project, enjoy the activities that we have prepared for you. Just like the talks, we will announce them on Slack as they start!
+If you're looking for a moment to relax and get away from any difficulties in your project, enjoy the activities that we have prepared for you. Just like the talks, we will announce them on Slack as they start! Check them out in our [live page](https://live.hackupc.com/activities)!
 
 {% include sections/activities.md %}
 
@@ -150,7 +152,7 @@ If you're looking for a moment to relax and get away from any difficulties in yo
 ## :zzz: Sleeping rooms
 
 We will have sleeping rooms available for those hackers who may need a rest at night. They will be open from 12:00 PM to 8:00 AM (both on Friday and on Saturday) and we will have air mattresses so that you don’t have to sleep on the floor. Although we provide sleeping masks and ear plugs, please be respectful of other people’s rest when you enter or exit the rooms.
-You will find the sleeping rooms in the A3 building. You can check the maps in our [live page](https://live.hackupc.com/).
+You will find the sleeping rooms in the A3 building. You can check the maps in our [live page](https://live.hackupc.com/map/indoors).
 
 **Reminder: It's forbidden to take the mattress outside of the sleeping area building!**
 
@@ -176,19 +178,21 @@ Spain uses the two-pin continental plugs, types C and F and operates on a 230V s
 
 ## :wrench: Hardware
 
-You can check the hardware we have at [live](https://live.hackupc.com/hardware)
+You can check the hardware you can ask for at [MyHackUPC](https://my.hackupc.com/).
 
 ## :shallow_pan_of_food: Meals
 
 The food will be given out in front of the A5 building. We will let you know through `#announcements` when it’s ready! We provide food taking into account every special diet that you may have. If you have a special diet and are unsure of the contents of each meal, don’t hesitate to ask the organisers and volunteers who will be next to the food. Remember to bring your water bottle if your drink of choice is water!
+
+Check the full menu in our [live page](https://live.hackupc.com/meals).
 
 ### :fork_and_knife: Diets
 
 When you check in, you will be provided with a bracelet specifying your diet. Please check that the color of your bracelet is correct:
 
 - **White**: No restriction
-- **Green**: Vegetarian/Vegan
-- **Blue**: Other restrictions
+- **Green**: Vegetarian
+- **Blue**: Other restrictions and alergies
 
 ---
 
@@ -200,13 +204,13 @@ When you check in, you will be provided with a bracelet specifying your diet. Pl
 
 ## :cry: I can't come to HackUPC, what should I do?
 
-That's sad!! But, if for any reason, you're unable to finally join us, we would appreciate that you cancel your attendance through [MyHackUPC](https://my.hackupc.com/).
+That's sad!! But, if for any reason, you're unable to finally join us, we would appreciate that you cancel your attendance through [MyHackUPC](https://my.hackupc.com/), so that others can take your spot.
 
 ---
 
 ## :camera: Connect with Us
 
-Make sure to tag social media posts related to the event with #HackUPC2023. We’ll be featuring your posts and highlights from the event on our Instagram, Twitter, and Facebook.
+Make sure to tag social media posts related to the event with #HackUPC10thEdition. We’ll be featuring your posts and highlights from the event on our Instagram, Twitter, and Facebook.
 
 ---
 ---
@@ -218,6 +222,8 @@ Make sure to tag social media posts related to the event with #HackUPC2023. We�
 ### :moneybag: Amount
 We will be offering flight reimbursements on a case-by-case basis. If you are eligible you will have received an email, you will be required to submit travel receipts on our travel reimbursement form in [MyHackUPC](https://my.hackupc.com/). Take in account that your transport may or may not be fully covered by reimbursements.
 
+Check out the whole process in our [live page](https://live.hackupc.com/travel).
+
 For any travel reimbursement related questions, you can send them to [reimbursements@hackupc.com](mailto:reimbursements@hackupc.com)
 
 ---
@@ -226,7 +232,7 @@ For any travel reimbursement related questions, you can send them to [reimbursem
 In order to get the money back, you should meet the requirements:
 - Confirm your attendance and attend to the event (you need to have the QR invitation code)
 - Be approved by the HackUPC team for reimbursement, received via email.
-- Submit your project to [Devpost](https://hackupc-2023.devpost.com) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
+- Submit your project to [Devpost](https://hackupc-2024.devpost.com) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
 - Submit a valid receipt with your travel expenses.
 - Your project must follow all the [HackUPC rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions).
 
@@ -250,7 +256,7 @@ All the receipts should include the following information:
 
 ### :envelope: Attendance letter
 
-If you need to verify your attendance to HackUPC 2023 for any reason (i.e. proof to get ECTS for winning the hackathon), you can ask for an attendance letter after the event at [contact@hackupc.com](mailto:contact@hackupc.com) with the following information:
+If you need to verify your attendance to HackUPC 2024 for any reason (i.e. proof to get ECTS for winning the hackathon), you can ask for an attendance letter after the event at [contact@hackupc.com](mailto:contact@hackupc.com) with the following information:
 - Link to your Devpost project
 - Complete name
 - ID number

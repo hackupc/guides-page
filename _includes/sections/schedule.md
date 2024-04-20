@@ -1,4 +1,4 @@
-Coming soon you will have available our [live page](https://live.hackupc.com/), where you’ll find the most recently updated schedule. Remember that all the times are UTC+2 (Barcelona local time)
+You can check out our [live page](https://live.hackupc.com/schedule), where you’ll find the most recently updated schedule. Remember that all the times are UTC+2 (Barcelona local time)
 
 Some important times to be aware of:
 
@@ -17,11 +17,12 @@ Some important times to be aware of:
 - 00:00 AM - 00:30 PM - Talks and workshops
 - 01:30 AM - 02:30 AM - Midnight snack
 - 03:14 AM - TheGame starts!
-- 09:00 AM - 10:00 AM - Breakfast
+- 09:00 AM - 10:30 AM - Breakfast
 - 09:30 AM - 11:30 AM - Showers available
 - 10:00 AM - 12:00 AM - Workshops
 - 12:00 AM - 01:00 PM - WikiRace
 - 01:30 PM - 03:00 PM - Lunch
+- 04:00 PM - Quack
 - 04:00 PM - 05:00 PM - Dodgeball
 - 05:00 PM - 07:00 PM - Showers available
 - 05:30 AM - 06:30 PM - Cup Stacking
@@ -33,8 +34,8 @@ Some important times to be aware of:
 
 - 00:00 AM - 00:30 AM - StickerXchange 
 - 00:30 AM - 03:00 AM - NerfGun Battle
-- 03:14 AM - TheGame ends
 - 01:00 AM - 02:30 AM - Midnight snack
+- 03:14 AM - TheGame ends
 - 08:00 AM - 09:15 AM - Hack Submissions
 - 09:00 AM - Hack Ends
 - 09:00 AM - 10:00 AM - Breakfast

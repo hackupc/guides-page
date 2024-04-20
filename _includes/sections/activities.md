@@ -1,4 +1,4 @@
-_Coming soon, stay tunned._
+_Coming soon, stay tuned._
 
 <!--
 - **Draw your Biene:** Give to our mascot your personal art style! _Discord, from Friday 9:00 PM to Sunday 10:15 AM_
