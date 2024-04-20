@@ -1,6 +1,6 @@
 Take a look at some of the activities we will be hosting during the event!
 
-- **🕵️‍♂️ Find the bienes**: There are 24 bienes hidden in the venue! Find at least 12 them, take a selfie and show it on the InfoDesk to check your mission stamp!
+- **🕵️‍♂️ Find the bienes**: There are 24 bienes hidden in the venue! Find at least 12 of them, take a selfie and show it on the InfoDesk to check your mission stamp!
 
 - **📌 Pins Collection**: We have 11 company booths, each one has a pin. Collect them all and show them at the InfoDesk to earn the last pin!
 
