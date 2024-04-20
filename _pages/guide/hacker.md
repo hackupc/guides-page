@@ -115,7 +115,7 @@ We also have a **Mentor Lobby**, located in classroom A5105. If you don't find m
 
 ## :trophy: Project Submissions
 
-Please submit your projects on our [Devpost](https://hackupc-2023.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
+Please submit your projects on our [Devpost](https://hackupc-2024.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
 
 Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. We encourage you to demo even if your project it's not finished, as our main criteria don’t include finishing it, and you will gain experience in demoing your own project ideas.
 
