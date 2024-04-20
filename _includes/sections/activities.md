@@ -1,12 +1,25 @@
-_Coming soon, stay tuned._
+Take a look at some of the activities we will be hosting during the event!
 
-<!--
-- **Draw your Biene:** Give to our mascot your personal art style! _Discord, from Friday 9:00 PM to Sunday 10:15 AM_
-- **Rubber-duck:** The rubber duck search has begun! _Discord, from Friday 9:00 PM to Sunday 10:15 AM_
-- **Photocall:** Send us hacking photos or videos of your online experience! _Discord and social networks, from Friday 9:00 PM to Sunday 1:00 PM_
-- **HackUphone:** How weird can a sentence become? Let's play a Telephone Game! _Discord, from Friday 9:00 PM to Sunday 10:15 AM_
-- **Yoga:** A good relaxed yoga session! _Discord, 10:00 AM_
-- **ONLINE NERF:** Let's chill a little bit playing some Online Nerf rounds! _Discord, 12:00 PM_
-- **Freehand:** A call to "Master Artists", capable of drawing anything from their imagination without instructions! _Discord, Saturday 6:00 PM_
-- **SlideShare Show:** A hacker's favourite game. Are you ready to improvise? _Twitch, Saturday 10:00 PM_
--->
+- **🕵️‍♂️ Find the bienes**: There are 24 bienes hidden in the venue! Find at least 12 of them, take a selfie and show it on the InfoDesk to check your mission stamp!
+
+- **📌 Pins Collection**: We have 11 company booths, each one has a pin. Collect them all and show them at the InfoDesk to earn the last pin!
+
+- **🏎️ Wiki Race**: How fast can you be? Start in a wikipedia link and be the first person to reach the destination page using WikiLinks.
+
+- **🔫 Nerf Gun Battle**: Compete with your friends in the Nerf Gun Battle!
+
+- **🔄 Sticker Exchange**: Want to improve your sticker collection? Come to the cafeteria and exchange your stickers with other hackathon lovers! 
+
+- **🧱 Lego**: How creative can you be? Get your lego skills ready and build whatever you can imagine with our lego pieces and different topics. 
+
+- **🏐 Dodgeball**: Want to stretch your legs? Relax from coding and play a 4 vs 4 dodgeball match. Don't forget to bring your friends! 
+
+- **🎤 SlideShare Show**: Do you dare to present a slide presentation you have never seen before? Get some laughs in this activity watching hackers presenting random slides! 
+
+- **🦆 Rubber duck finding**: Quack! Oh, it looks like some ducks have gone missing. Can you help us find them? You can keep the one you find!
+
+- **📸 Photocall**: Get a cool memory! Take a picture in our photocall, share it in social media tagging us (@hackupc) and come to the InfoDesk to claim your mission stamp!
+
+- **🥤 Cup Stacking by MLH**: How many cups can you stack? Join the challenge, where you'll race against another team to build the tallest tower using only cups.
+
+If you want to know more about the activities, you can check out our [live page](https://live.hackupc.com/activities), where you’ll find the most recently updated information.
