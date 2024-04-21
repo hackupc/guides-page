@@ -25,7 +25,7 @@ During the event, we expect mentors to:
 
 - **Follow the organisers rules**, at the end, they know the timing on the event and what is the best help in each moment.
 
-- **Follow [HackUPC Rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions)**, HackUPC it's only possible if we respect its rules, the event is prepared for the people we intive, even you! And it is only possible to make it out if we all contribute to it.
+- **Follow [HackUPC Rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions)**, HackUPC it's only possible if we respect its rules, the event is prepared for the people we intive, even you! And it is only possible to make it out if we all contribute to it. Find the complete list of rules in our [live page](https://live.hackupc.com/rules).
 
 You will receive all the details with respect to these tasks once you get to the hackathon.
 
@@ -83,7 +83,7 @@ You will see the check in when you arrive. Please provide your name at the check
 
 - Our website: [hackupc.com](https://hackupc.com)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Slack: [hackupc2023.slack.com](https://hackupc2023.slack.com)
+- Slack: [hackupc2023.slack.com](https://hackupc2024.slack.com)
 
 ## Social Media
 
