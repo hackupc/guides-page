@@ -97,6 +97,8 @@ Keep in mind that the auditorium has limited seating. For the ones that can not 
 The #1 rule is “Be respectful”.
 Please read [HackUPC’s code of conduct](https://legal.hackersatupc.org/hackupc/code_of_conduct). We require all hackers to abide by these rules.
 
+Check out the full list of rules in our [live page](https://live.hackupc.com/rules/hRules).
+
 ---
 
 ## :bulb: Hacking
