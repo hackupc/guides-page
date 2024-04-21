@@ -1,4 +1,3 @@
-_Coming soon, stay tunned._
 
 <!--
 - **Talk - Git & Github, by Github:** Introduction to git and GitHub, learn the most basic commands for git and collaborate with GitHub. _A5001, Friday 10:30 PM_
