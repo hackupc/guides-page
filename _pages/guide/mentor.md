@@ -83,7 +83,7 @@ You will see the check in when you arrive. Please provide your name at the check
 
 - Our website: [hackupc.com](https://hackupc.com)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Slack: [hackupc2023.slack.com](https://hackupc2024.slack.com)
+- Slack: [hackupc2024.slack.com](https://hackupc2024.slack.com)
 
 ## Social Media
 
