@@ -8,7 +8,7 @@ First of all, in the name of the HackUPC team, we’d like to thank you for want
 
 ## Who is a mentor?
 
-Mentors are experienced volunteers who want to share their knowledge with new hackers and help them get through different roadblocks. They help new hackers make their dreams a reality by aiding them during the event. However, mentors do **not** participate in the hackathon as hackers do and therefore, they can’t submit any project.
+Mentors are experienced volunteers who want to share their knowledge with new hackers and help them get through different roadblocks. They help new hackers make their dreams a reality by aiding them during the event. However, mentors do **not participate** in the hackathon as hackers do and therefore, they can’t submit any project.
 
 ## Which are my responsibilities as a mentor?
 
@@ -21,22 +21,23 @@ During the event, we expect mentors to:
   encourage everyone to be highly available.
 
 - **Check out help requests** through our communication channels:
-  - Messages from the #mentors Slack channel
+  - Messages from the **#mentors** Slack channel.
+  - Mentions to the **@mentors** Slack tag.
 
-- **Follow the organisers rules**, at the end, they know the timing on the event and what is the best help in each moment.
+- **Follow the organizers rules**. In the end, they know the timing of the event and what is best in each moment.
 
-- **Follow [HackUPC Rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions)**, HackUPC it's only possible if we respect its rules, the event is prepared for the people we intive, even you! And it is only possible to make it out if we all contribute to it. Find the complete list of rules in our [live page](https://live.hackupc.com/rules).
+- **Follow [HackUPC Rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions)**. HackUPC is only possible if we respect the rules. The event is prepared for the people we invite, included you! And it is only possible to make it work if we all contribute to it. Find the complete list of rules in our [live page](https://live.hackupc.com/rules).
 
-You will receive all the details with respect to these tasks once you get to the hackathon.
+You will receive all the details regarding these tasks once you arrive to the hackathon and receive a short briefing.
 
 ### Different responsibilities at different times
 As a mentor, your responsibilities will vary depending on the stage of the hackathon. Here is a breakdown of what you can expect:
 
-At the start of the hackathon on **Friday night**, mentors will be responsible for helping participants set up their development environments and **git projects**. You will also be helping participants form teams, answering any questions they may have about the hackathon, and providing guidance on how to approach the hackathon challenges.
+At the start of the hackathon on **Friday night**, mentors will be responsible for helping participants set up their development environments and **git projects**. You will also be helping participants by answering any questions they may have about the hackathon, and providing guidance on how to approach the hackathon challenges.
 
 **During the hackathon**, mentors will be responsible for helping participants with any **technical issues** they may have. This could include helping them troubleshoot errors, providing guidance on how to use certain technologies, and proposing alternatives if a particular technology isn't working out. 
 
-On **Sunday morning**, mentors will be responsible for helping participants **submit their projects to Devpost** and for helping them present their projects to the judges. You will be checking that everyone is capable of doing so, and ensuring that all projects are submitted on time. 
+On **Sunday morning**, mentors will be responsible for helping participants **submit their projects to Devpost** and for helping them present their projects to the judges. You will be helping hackers submit their projects, and ensuring that all projects are submitted on time. 
 
 ### What benefits do I get as a Mentor?
 
@@ -44,7 +45,7 @@ We want you to live a great hackathon experience. As a mentor, you will be able 
 
 - Attend workshops and tech talks that take place during the event.
 
-- Access to the Lobby: a reserved area for volunteers and mentors where you can hang out and have some rest.
+- Access to the Lobby: a reserved area for mentors where you can hang out and have some rest, and where hackers can find you.
 
 - Have full meals from Friday dinner to Sunday lunch, including all kind of snacks and drinks.
 
@@ -71,7 +72,9 @@ We want you to live a great hackathon experience. As a mentor, you will be able 
 
 ### Check in
 
-You will see the check in when you arrive. Please provide your name at the check in table. You will be provided with a mentor t-shirt and a bracelet to enter and leave the venue on your own. Please **do not** cut it nor take it off during the event. In case it is too tight, please let us know and we will help you out at InfoDesk.
+You will see the check in when you arrive. Please provide your name at the check in table and you will be provided with a bracelet to enter and leave the venue on your own. Please **do not** cut it nor take it off during the event. In case it is too tight, please let us know and we will help you out at InfoDesk.
+
+Later on, we will have a briefing where we will provide you with the swag bag, including a Mentor T-Shirt that has to be worn at all times. As soon as you have been checked in, let us know through our private channel **#mentors-organizers**.
 
 ## Preliminary schedule
 
@@ -83,7 +86,7 @@ You will see the check in when you arrive. Please provide your name at the check
 
 - Our website: [hackupc.com](https://hackupc.com)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Slack: [hackupc2024.slack.com](https://hackupc2024.slack.com)
+- Slack: [hackupc2025.slack.com](https://hackupc2025.slack.com)
 
 ## Social Media
 
