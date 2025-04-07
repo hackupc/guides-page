@@ -26,13 +26,13 @@ Some important times to be aware of:
 - 04:00 PM - 05:00 PM - Dodgeball
 - 05:00 PM - 07:00 PM - Showers available
 - 05:30 AM - 06:30 PM - Cup Stacking
-- 07:00 PM - 08:00 PM - Lego 
+- 07:00 PM - 08:00 PM - Tetris Tournament
 - 08:30 PM - 10:00 PM - Dinner
 - 10:00 PM - 11:00 PM - SlideShare Show
 
 **May 5th, Sunday**
 
-- 00:00 AM - 00:30 AM - StickerXchange 
+- 00:00 AM - 00:30 AM - StickerXchange
 - 00:30 AM - 03:00 AM - NerfGun Battle
 - 01:00 AM - 02:30 AM - Midnight snack
 - 03:14 AM - TheGame ends
