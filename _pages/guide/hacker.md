@@ -5,7 +5,7 @@ description: The extensive guide to make your experience at HackUPC amazing!
 ---
 
 Hi, hacker! We’re very excited to share this amazing weekend with you.
-This guide will help you get ready so that you don’t miss anything and can enjoy it to the fullest. 
+This guide will help you get ready so that you don’t miss anything and can enjoy it to the fullest.
 
 ---
 
@@ -28,9 +28,9 @@ We will give out a water cup, sleeping mask and ear plugs, so you don’t need t
 
 ```Edifici A5 del Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona```
 
-[:round_pushpin: Google Maps location](https://maps.app.goo.gl/AKazP14LMy7LZoZq8)
+[:round_pushpin: Google Maps location](https://maps.app.goo.gl/steJC5sp5SWpRjh5A)
 
-HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona). The entrance will be marked with signs so it will be easy for you to find it. 
+HackUPC will take place in the buildings A3 to A6 of the Campus Nord of the Universitat Politècnica de Catalunya (Facultat d’Informàtica de Barcelona). The entrance will be marked with signs so it will be easy for you to find it.
 
 ### :world_map: Directions
 
@@ -52,7 +52,6 @@ These are some important channels that we have:
 - **#help:** Something happening in your room? Wi-Fi not working? Do you have any question? Tell us through this channel, and we’ll try to solve it as fast as possible.
 - **#mentors:** If you’re stuck in your project, ask for help here and a mentor will come help you.
 - **#explore-bcn:** If you’re coming a few days before, or staying after the event to visit Barcelona, this is the channel where you can ask the locals for suggestions about what to visit or where to eat.
-- **#hackathon-organizers:** Are you a hackathon organizer, or interested in starting one in your college? Meet people like you here!
 - **#accomodation:** Get recommendations on places to stay in Barcelona. Maybe a local hacker can offer you a bed!
 - **#team-building:** You still don’t have a team? Have an idea? Share your thoughts here and meet people to form a team.
 - **#random:** BIENE.
@@ -69,7 +68,7 @@ These are some important channels that we have:
 
 Check-in will be open from 4:00 PM to 6:45 PM. While in the queue, please have your ID prepared or the QR we sent you in the mail, as it will help us go quicker! In the check in we will check the rest of the information and we will give you, among other things, **a bracelet that you will have to wear at all times.**
 
-If you arrive later, go to the info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you! 
+If you arrive later, go to the info desk for late check-in. If you let us know that you’ll arrive late, we’ll have your welcome bag prepared for you!
 
 We will also have baggage check-in so that you can leave your bags in a safe place.
 
@@ -117,7 +116,7 @@ We also have a **Mentor Lobby**, located in classroom A5105. If you don't find m
 
 ## :trophy: Project Submissions
 
-Please submit your projects on our [Devpost](https://hackupc-2024.devpost.com) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
+Please submit your projects on our [Devpost](https://hackupc-2025.devpost.com/) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
 
 Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. We encourage you to demo even if your project it's not finished, as our main criteria don’t include finishing it, and you will gain experience in demoing your own project ideas.
 
@@ -212,7 +211,7 @@ That's sad!! But, if for any reason, you're unable to finally join us, we would 
 
 ## :camera: Connect with Us
 
-Make sure to tag social media posts related to the event with #HackUPC10thEdition. We’ll be featuring your posts and highlights from the event on our Instagram, Twitter, and Facebook.
+Make sure to tag social media posts related to the event with #HackUPC11thEdition. We’ll be featuring your posts and highlights from the event on our Instagram, Twitter, and Facebook.
 
 ---
 ---
@@ -231,10 +230,10 @@ For any travel reimbursement related questions, you can send them to [reimbursem
 ---
 
 ### :warning: Requirements
-In order to get the money back, you should meet the requirements:
+In order to be eligible to get the money back, you should meet the requirements:
 - Confirm your attendance and attend to the event (you need to have the QR invitation code)
 - Be approved by the HackUPC team for reimbursement, received via email.
-- Submit your project to [Devpost](https://hackupc-2024.devpost.com) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
+- Submit your project to [Devpost](https://hackupc-2025.devpost.com/) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
 - Submit a valid receipt with your travel expenses.
 - Your project must follow all the [HackUPC rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions).
 
@@ -258,7 +257,7 @@ All the receipts should include the following information:
 
 ### :envelope: Attendance letter
 
-If you need to verify your attendance to HackUPC 2024 for any reason (i.e. proof to get ECTS for winning the hackathon), you can ask for an attendance letter after the event at [contact@hackupc.com](mailto:contact@hackupc.com) with the following information:
+If you need to verify your attendance to HackUPC 2025 for any reason (i.e. proof to get ECTS for winning the hackathon), you can ask for an attendance letter after the event at [contact@hackupc.com](mailto:contact@hackupc.com) with the following information:
 - Link to your Devpost project
 - Complete name
 - ID number
