@@ -2,17 +2,17 @@ You can check out our [live page](https://live.hackupc.com/schedule), where youâ
 
 Some important times to be aware of:
 
-**May 3rd, Friday**
+**May 2nd, Friday**
 
 - 04:00 PM - 06:45 PM - Check in :wave:
 - 07:00 PM - 08:30 PM - Opening Ceremony
 - 08:30 PM - 10:30 PM - Dinner
-- 09:00 PM - Hackathon starts!
+- 09:00 PM - Hacking time starts!
 - 09:30 PM - 10:30 PM - Team Building
 - 10:30 PM - 11:59 PM - Talks and workshops
-- 11:00 PM - Take a picture at the Photocall
+- 11:00 PM - Take a picture at the Photocall with our photographers
 
-**May 4th, Saturday**
+**May 3rd, Saturday**
 
 - 00:00 AM - 00:30 PM - Talks and workshops
 - 01:30 AM - 02:30 AM - Midnight snack
@@ -30,14 +30,14 @@ Some important times to be aware of:
 - 08:30 PM - 10:00 PM - Dinner
 - 10:00 PM - 11:00 PM - SlideShare Show
 
-**May 5th, Sunday**
+**May 4th, Sunday**
 
 - 00:00 AM - 00:30 AM - StickerXchange
 - 00:30 AM - 03:00 AM - NerfGun Battle
 - 01:00 AM - 02:30 AM - Midnight snack
 - 03:14 AM - TheGame ends
 - 08:00 AM - 09:15 AM - Hack Submissions
-- 09:00 AM - Hack Ends
+- 09:00 AM - Hacking time ends!
 - 09:00 AM - 10:00 AM - Breakfast
 - 09:00 AM - 11:00 AM - Showers available
 - 10:15 AM - 01:15 PM - Hack Demos
