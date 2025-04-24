@@ -8,13 +8,13 @@ Take a look at some of the activities we will be hosting during the event!
 
 - **🔫 Nerf Gun Battle**: Compete with your friends in the Nerf Gun Battle!
 
-- **🔄 Sticker Exchange**: Want to improve your sticker collection? Come to the cafeteria and exchange your stickers with other hackathon lovers! 
+- **🔄 Sticker Exchange**: Want to improve your sticker collection? Come to the cafeteria and exchange your stickers with other hackathon lovers!
 
-- **🧱 Lego**: How creative can you be? Get your lego skills ready and build whatever you can imagine with our lego pieces and different topics. 
+- **🎮 Tetris Tournament**: Are you really the best player of Tetris, or are you just showing off? Become the champion of our Tetris tournament, beating all of your friends along the way!
 
-- **🏐 Dodgeball**: Want to stretch your legs? Relax from coding and play a 4 vs 4 dodgeball match. Don't forget to bring your friends! 
+- **🏐 Dodgeball**: Want to stretch your legs? Relax from coding and play a 4 vs 4 dodgeball match. Don't forget to bring your friends!
 
-- **🎤 SlideShare Show**: Do you dare to present a slide presentation you have never seen before? Get some laughs in this activity watching hackers presenting random slides! 
+- **🎤 SlideShare Show**: Do you dare to present a slide presentation you have never seen before? Get some laughs in this activity watching hackers presenting random slides!
 
 - **🦆 Rubber duck finding**: Quack! Oh, it looks like some ducks have gone missing. Can you help us find them? You can keep the one you find!
 
