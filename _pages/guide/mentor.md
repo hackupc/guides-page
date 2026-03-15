@@ -4,7 +4,7 @@ title: Mentor guide
 description: Guide to mentor during HackUPC
 ---
 
-First of all, in behalf of the HackUPC team, we’d like to thank you for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn everything about a new technology, and come up with creative ideas**. Participants will then have 36 hours to work on any project they choose. HackUPC gives participants the resources, space, and time to create something amazing.
+First of all, on behalf of the HackUPC team, we’d like to thank you for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn everything about a new technology, and come up with creative ideas**. Participants will then have 36 hours to work on any project they choose. HackUPC gives participants the resources, space, and time to create something amazing.
 
 ## Who is a mentor?
 
