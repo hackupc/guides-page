@@ -4,7 +4,7 @@ title: Mentor guide
 description: Guide to mentor during HackUPC
 ---
 
-First of all, in the name of the HackUPC team, we’d like to thank you for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn everything about a new technology, and come up with creative ideas**. Participants will then have 36 hours to work on any project they choose. HackUPC gives participants the resources, space, and time to create something amazing.
+First of all, on behalf of the HackUPC team, we’d like to thank you for wanting to be a mentor. This event would not be complete without you. As a mentor, you will be **helping students work on projects, learn everything about a new technology, and come up with creative ideas**. Participants will then have 36 hours to work on any project they choose. HackUPC gives participants the resources, space, and time to create something amazing.
 
 ## Who is a mentor?
 
@@ -24,7 +24,7 @@ During the event, we expect mentors to:
   - Messages from the **#mentors** Slack channel.
   - Mentions to the **@mentors** Slack tag.
 
-- **Follow the organizers rules**. In the end, they know the timing of the event and what is best in each moment.
+- **Follow the organizers rules**. After all, they know the timing of the event and what is best in each moment.
 
 - **Follow [HackUPC Rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions)**. HackUPC is only possible if we respect the rules. The event is prepared for the people we invite, included you! And it is only possible to make it work if we all contribute to it. Find the complete list of rules in our [live page](https://live.hackupc.com/rules).
 
