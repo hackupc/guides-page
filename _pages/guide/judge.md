@@ -4,7 +4,7 @@ title: Judging guide
 description: Judging at HackUPC
 ---
 
-First of all, in the name of the HackUPC team, we’d like to thank you all for wanting to be a judge. Your decision will be crucial to be able to determine, fairly, whose projects should be the finalists or awarded.
+First of all, on behalf of the HackUPC team, we’d like to thank you all for wanting to be a judge. Your decision will be crucial to be able to determine, fairly, whose projects should be the finalists or awarded.
 
 ---
 
@@ -18,7 +18,12 @@ As a judge, you will be briefed at 09:30 AM as a group on how the expo will work
 
 HackUPC takes place at Polytechnic University of Catalonia(UPC) Campus Nord. The meeting point with the organizers is:
 
-> A5 building from Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona
+> A5 building of Campus Nord, C/Jordi Girona, 1-3, 08034 Barcelona
+
+### :school_satchel: What should I bring?
+- Laptop
+- Laptop charger
+- Government ID
 
 ### :oncoming_automobile: Parking
 
