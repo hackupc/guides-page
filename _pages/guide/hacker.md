@@ -116,7 +116,7 @@ We also have a **Mentor Lobby**, located in classroom A5105. If you don't find m
 
 ## :trophy: Project Submissions
 
-Please submit your projects on our [Devpost](https://hackupc-2025.devpost.com/) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
+Please submit your projects on our [Devpost](https://hackupc-2026.devpost.com/) by Sunday 14 at 9:00 AM. Also remember to opt-in for any sponsor prizes that you are eligible for. You can submit early and still be able to edit your submission until 9:00AM!
 
 Our judging will be in expo style. You’ll have 3 minutes to demo your project to our judges and show what you've learned and built during the weekend. We encourage you to demo even if your project it's not finished, as our main criteria don’t include finishing it, and you will gain experience in demoing your own project ideas.
 
@@ -233,7 +233,7 @@ For any travel reimbursement related questions, you can send them to [reimbursem
 In order to be eligible to get the money back, you should meet the requirements:
 - Confirm your attendance and attend to the event (you need to have the QR invitation code)
 - Be approved by the HackUPC team for reimbursement, received via email.
-- Submit your project to [Devpost](https://hackupc-2025.devpost.com/) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
+- Submit your project to [Devpost](https://hackupc-2026.devpost.com/) and make the demo to HackUPC jury (presenting only to the sponsors is not valid).
 - Submit a valid receipt with your travel expenses.
 - Your project must follow all the [HackUPC rules](https://legal.hackersatupc.org/hackupc/terms_and_conditions).
 
@@ -257,7 +257,7 @@ All the receipts should include the following information:
 
 ### :envelope: Attendance letter
 
-If you need to verify your attendance to HackUPC 2025 for any reason (i.e. proof to get ECTS for winning the hackathon), you can ask for an attendance letter after the event at [contact@hackupc.com](mailto:contact@hackupc.com) with the following information:
+If you need to verify your attendance to HackUPC 2026 for any reason (i.e. proof to get ECTS for winning the hackathon), you can ask for an attendance letter after the event at [contact@hackupc.com](mailto:contact@hackupc.com) with the following information:
 - Link to your Devpost project
 - Complete name
 - ID number
