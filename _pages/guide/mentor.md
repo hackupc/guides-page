@@ -86,7 +86,7 @@ Later on, we will have a briefing where we will provide you with the swag bag, i
 
 - Our website: [hackupc.com](https://hackupc.com)
 - Live page: [live.hackupc.com](https://live.hackupc.com)
-- Slack: [hackupc2025.slack.com](https://hackupc2025.slack.com)
+- Slack: [hackupc2026.slack.com](https://hackupc2026.slack.com)
 
 ## Social Media
 
